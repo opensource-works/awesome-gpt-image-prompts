@@ -43,9 +43,9 @@
 
 ### 1/ women Character sheet
 
-<a href="https://x.com/abxxai/status/2097698712978087966"><img src="https://pbs.twimg.com/media/HRyF3NOaQAAvoVo.jpg?name=orig" width="460" alt="1/ women Character sheet"></a>
+<a href="https://x.com/abxxai/status/2097698712978087966"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF3NOaQAAvoVo.thumb.webp" width="460" alt="1/ women Character sheet"></a>
 
-**图片署名 / 来源：** [Abdul Shakoor](https://x.com/abxxai) · [X 原帖](https://x.com/abxxai/status/2097698712978087966) · X · GPT Image 2.5 · 2026-09-09 · 8K 浏览
+**图片署名 / 来源：** [Abdul Shakoor](https://x.com/abxxai) · [X 原帖](https://x.com/abxxai/status/2097698712978087966) · X · GPT Image 2.5 · 2026-09-09 · 8.1K 浏览
 
 <details><summary><b>提示词</b></summary>
 
@@ -59,7 +59,7 @@ Multi-panel studio photographs of the same real woman across four panels: front-
 
 ### Made with GPT Image 2.5
 
-<a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pbs.twimg.com/media/HRySIFtWIAA0lcK.jpg?name=orig" width="460" alt="Made with GPT Image 2.5"></a>
+<a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRySIFtWIAA0lcK.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
 **图片署名 / 来源：** [Mira](https://x.com/miratechtool) · [X 原帖](https://x.com/miratechtool/status/2097712223044907454) · X · GPT Image 2.5 · 2026-09-09 · 7.6K 浏览
 
@@ -75,7 +75,7 @@ Using my uploaded photo, show me what I would have looked like around 1985. Pres
 
 ### 用古代美人捏人互动小游戏🎮方式写提示词～
 
-<a href="https://x.com/DeepBlueX0/status/2097897602356306361"><img src="https://pbs.twimg.com/media/HR06vpgbUAA-msH.jpg?name=orig" width="460" alt="用古代美人捏人互动小游戏🎮方式写提示词～"></a>
+<a href="https://x.com/DeepBlueX0/status/2097897602356306361"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR06vpgbUAA-msH.thumb.webp" width="460" alt="用古代美人捏人互动小游戏🎮方式写提示词～"></a>
 
 **图片署名 / 来源：** [DeepBlue深藍](https://x.com/DeepBlueX0) · [X 原帖](https://x.com/DeepBlueX0/status/2097897602356306361) · X · GPT Image 2.5 · 2026-09-10 · 3.7K 浏览
 
@@ -259,7 +259,7 @@ Using my uploaded photo, show me what I would have looked like around 1985. Pres
 
 ### Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its…
 
-<a href="https://x.com/Naiknelofar788/status/2097996229582147939"><img src="https://pbs.twimg.com/media/HR2UcbRbIAAGggr.jpg?name=orig" width="460" alt="Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its…"></a>
+<a href="https://x.com/Naiknelofar788/status/2097996229582147939"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR2UcbRbIAAGggr.thumb.webp" width="460" alt="Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its…"></a>
 
 **图片署名 / 来源：** [simeon-sanai](https://x.com/Naiknelofar788) · [X 原帖](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 593 浏览
 
@@ -280,7 +280,7 @@ Create a unique 3D miniature [COUNTRY] where the entire national border is forme
 
 ### 🚨 GPT-Image-2.5 Output
 
-<a href="https://x.com/chetaslua/status/2095556181012128005"><img src="https://pbs.twimg.com/media/HRTozFXbwAAMDqF.jpg?name=orig" width="460" alt="🚨 GPT-Image-2.5 Output"></a>
+<a href="https://x.com/chetaslua/status/2095556181012128005"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRTozFXbwAAMDqF.thumb.webp" width="460" alt="🚨 GPT-Image-2.5 Output"></a>
 
 **图片署名 / 来源：** [Chetaslua](https://x.com/chetaslua) · [X 原帖](https://x.com/chetaslua/status/2095556181012128005) · X · GPT Image 2.5 · 2026-09-03 · 91.8K 浏览
 
@@ -296,7 +296,7 @@ a photorealistic, taken by phone photo of a handwritten essay in pencil, albert 
 
 ### 2/ the woman location image
 
-<a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pbs.twimg.com/media/HRyF4LMaIAAbYPT.jpg?name=orig" width="460" alt="2/ the woman location image"></a>
+<a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="460" alt="2/ the woman location image"></a>
 
 **图片署名 / 来源：** [Abdul Shakoor](https://x.com/abxxai) · [X 原帖](https://x.com/abxxai/status/2097698730564796683) · X · GPT Image 2.5 · 2026-09-09 · 7K 浏览
 
@@ -312,7 +312,7 @@ Two women framed by a sun-bleached stone archway — one in the near foreground 
 
 ### Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the…
 
-<a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pbs.twimg.com/media/HR1utPuasAABAU8.jpg?name=orig" width="460" alt="Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the…"></a>
+<a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR1utPuasAABAU8.thumb.webp" width="460" alt="Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the…"></a>
 
 **图片署名 / 来源：** [Saul Goodman](https://x.com/Goodmanprotocol) · [X 原帖](https://x.com/Goodmanprotocol/status/2097954772586557873) · X · GPT Image 2.5 · 2026-09-10 · 4.6K 浏览
 
@@ -334,7 +334,7 @@ Keep the lighting cinematic yet believable, with soft shadows, realistic highlig
 
 ### A realistic candid travel photo of a young East Asian woman standing on an old stone…
 
-<a href="https://x.com/Aqsahere_/status/2097693634569396706"><img src="https://pbs.twimg.com/media/HRyBPMdbUAA5cth.jpg?name=orig" width="460" alt="A realistic candid travel photo of a young East Asian woman standing on an old stone…"></a>
+<a href="https://x.com/Aqsahere_/status/2097693634569396706"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyBPMdbUAA5cth.thumb.webp" width="460" alt="A realistic candid travel photo of a young East Asian woman standing on an old stone…"></a>
 
 **图片署名 / 来源：** [Aqsa](https://x.com/Aqsahere_) · [X 原帖](https://x.com/Aqsahere_/status/2097693634569396706) · X · GPT Image 2.5 · 2026-09-09 · 1.4K 浏览
 
@@ -358,7 +358,7 @@ The sky is a deep gray-blue with soft clouds, contrasting naturally with the war
 
 ### Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5…
 
-<a href="https://x.com/Goodmanprotocol/status/2097890291860865291"><img src="https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg?name=orig" width="460" alt="Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5…"></a>
+<a href="https://x.com/Goodmanprotocol/status/2097890291860865291"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR00CbhacAAFzKP.thumb.webp" width="460" alt="Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5…"></a>
 
 **图片署名 / 来源：** [Saul Goodman](https://x.com/Goodmanprotocol) · [X 原帖](https://x.com/Goodmanprotocol/status/2097890291860865291) · X · GPT Image 2.5 · 2026-09-10 · 1.5K 浏览
 
@@ -420,7 +420,7 @@ The final image should feel like a world-class handcrafted travel campaign-insta
 
 ### Created with GPT image 2.5 on ChatGPT
 
-<a href="https://x.com/jzaib4269/status/2092804796512346269"><img src="https://pbs.twimg.com/media/HQsi2jBbUAAQ_4d.jpg?name=orig" width="460" alt="Created with GPT image 2.5 on ChatGPT"></a>
+<a href="https://x.com/jzaib4269/status/2092804796512346269"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HQsi2jBbUAAQ_4d.thumb.webp" width="460" alt="Created with GPT image 2.5 on ChatGPT"></a>
 
 **图片署名 / 来源：** [Jahan Zaib](https://x.com/jzaib4269) · [X 原帖](https://x.com/jzaib4269/status/2092804796512346269) · X · GPT Image 2.5 · 2026-08-27 · 2.6K 浏览
 
@@ -456,7 +456,7 @@ Overall feeling: beautiful enough to stop the scroll, realistic enough to feel l
 
 ### GPT image 2.5 GIF prompt 👇
 
-<a href="https://x.com/KrishnaBio1/status/2097716825668702388"><img src="https://pbs.twimg.com/media/HRyWSj2XAAABt0j.jpg?name=orig" width="460" alt="GPT image 2.5 GIF prompt 👇"></a>
+<a href="https://x.com/KrishnaBio1/status/2097716825668702388"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyWSj2XAAABt0j.thumb.webp" width="460" alt="GPT image 2.5 GIF prompt 👇"></a>
 
 **图片署名 / 来源：** [KrishnaG](https://x.com/KrishnaBio1) · [X 原帖](https://x.com/KrishnaBio1/status/2097716825668702388) · X · GPT Image 2.5 · 2026-09-09 · 2.4K 浏览
 
@@ -497,7 +497,7 @@ cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warp
 
 ### GPT image 2.5 on ChatGPT
 
-<a href="https://x.com/Naiknelofar788/status/2097920025617399875"><img src="https://pbs.twimg.com/media/HR1PFgUasAAJbTM.jpg?name=orig" width="460" alt="GPT image 2.5 on ChatGPT"></a>
+<a href="https://x.com/Naiknelofar788/status/2097920025617399875"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR1PFgUasAAJbTM.thumb.webp" width="460" alt="GPT image 2.5 on ChatGPT"></a>
 
 **图片署名 / 来源：** [simeon-sanai](https://x.com/Naiknelofar788) · [X 原帖](https://x.com/Naiknelofar788/status/2097920025617399875) · X · GPT Image 2.5 · 2026-09-10 · 1K 浏览
 
@@ -537,7 +537,7 @@ Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photoreali
 
 ### GPT Image 2.5 prompt
 
-<a href="https://x.com/TechieBySA/status/2097738632941461886"><img src="https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg?name=orig" width="460" alt="GPT Image 2.5 prompt"></a>
+<a href="https://x.com/TechieBySA/status/2097738632941461886"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyqKm2bsAAbR7g.thumb.webp" width="460" alt="GPT Image 2.5 prompt"></a>
 
 **图片署名 / 来源：** [TechieSA](https://x.com/TechieBySA) · [X 原帖](https://x.com/TechieBySA/status/2097738632941461886) · X · GPT Image 2.5 · 2026-09-09 · 625 浏览
 
@@ -564,7 +564,7 @@ OVERALL: Clean white background, bold red watercolor left side, green watercolor
 
 ### Made with GPT Image 2.5
 
-<a href="https://x.com/miratechtool/status/2097710852413497646"><img src="https://pbs.twimg.com/media/HRyQ5SpXgAA9LW9.jpg?name=orig" width="460" alt="Made with GPT Image 2.5"></a>
+<a href="https://x.com/miratechtool/status/2097710852413497646"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyQ5SpXgAA9LW9.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
 **图片署名 / 来源：** [Mira](https://x.com/miratechtool) · [X 原帖](https://x.com/miratechtool/status/2097710852413497646) · X · GPT Image 2.5 · 2026-09-09 · 542 浏览
 
