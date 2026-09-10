@@ -21,11 +21,11 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 
 | | |
 |---|---|
-| Posts | **14** |
-| Source accounts credited | **10** |
-| Posts with the full prompt | **14** |
-| Where they came from | 14 from X |
-| Checkpoints covered | **GPT Image 2.5** (14) |
+| Posts | **13** |
+| Source accounts credited | **9** |
+| Posts with the full prompt | **13** |
+| Where they came from | 13 from X |
+| Checkpoints covered | **GPT Image 2.5** (13) |
 | Last refreshed | 2026-09-10 |
 
 ## Most engaged
@@ -35,16 +35,16 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 <td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698712978087966"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF3NOaQAAvoVo.thumb.webp" width="100%" alt=""></a><br><sub><b>1/ women Character sheet</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 8.1K views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRySIFtWIAA0lcK.thumb.webp" width="100%" alt=""></a><br><sub><b>Made with GPT Image 2.5</b><br><a href="https://x.com/miratechtool">Mira</a> · 7.6K views</sub></td>
 </tr><tr>
-<td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="100%" alt=""></a><br><sub><b>2/ the woman location image</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 7K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR1utPuasAABAU8.thumb.webp" width="100%" alt=""></a><br><sub><b>Create an authentic 1980s retro-vintage portrait in a 4:5…</b><br><a href="https://x.com/Goodmanprotocol">Saul Goodman</a> · 4.6K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/DeepBlueX0/status/2097897602356306361"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR06vpgbUAA-msH.thumb.webp" width="100%" alt=""></a><br><sub><b>用古代美人捏人互动小游戏🎮方式写提示词～</b><br><a href="https://x.com/DeepBlueX0">DeepBlue深藍</a> · 3.7K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="100%" alt=""></a><br><sub><b>2/ the woman location image</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 7.1K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR1utPuasAABAU8.thumb.webp" width="100%" alt=""></a><br><sub><b>Create an authentic 1980s retro-vintage portrait in a 4:5…</b><br><a href="https://x.com/Goodmanprotocol">Saul Goodman</a> · 4.7K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/jzaib4269/status/2092804796512346269"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HQsi2jBbUAAQ_4d.thumb.webp" width="100%" alt=""></a><br><sub><b>Created with GPT image 2.5 on ChatGPT</b><br><a href="https://x.com/jzaib4269">Jahan Zaib</a> · 2.6K views</sub></td>
 </tr></table>
 
 > Ordering is each post's standing among the posts from its own platform. An X view and a Reddit upvote are not the same unit and this repo does not pretend to convert between them.
 
 ## Contents
 
-- [Showcase](#showcase) — 4 posts
+- [Showcase](#showcase) — 3 posts
 - [Photoreal & Portrait](#photoreal-portrait) — 4 posts
 - [Infographic & Diagram](#infographic-diagram) — 1 posts
 - [Design & Poster](#design-poster) — 3 posts
@@ -85,195 +85,11 @@ Using my uploaded photo, show me what I would have looked like around 1985. Pres
 
 **Prompt credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097712223044907454)
 
-### 用古代美人捏人互动小游戏🎮方式写提示词～
-
-<a href="https://x.com/DeepBlueX0/status/2097897602356306361"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR06vpgbUAA-msH.thumb.webp" width="460" alt="用古代美人捏人互动小游戏🎮方式写提示词～"></a>
-
-**Image credit / source:** [DeepBlue深藍](https://x.com/DeepBlueX0) · [Original post](https://x.com/DeepBlueX0/status/2097897602356306361) · X · GPT Image 2.5 · 2026-09-10 · 3.7K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-你是一款互动式古代美人捏人游戏。通过8步决定人物核心特征，其余细节由AI补全。少解释，多互动，始终保存当前角色状态。
-
-【流程】
-
-①朝代 → ②身材 → ③气质 → ④发式 → ⑤服饰 → ⑥妆容 → ⑦场景 → ⑧神态 → 完成
-
-严格按顺序，一次只展示一个项目。用户选择后立即保存并进入下一项，不询问“下一步”，不重复确认。开始时只展示①。
-
-【选择界面】
-
-每项6～10个选项。
-
-使用紧凑视觉卡：视觉示例＋编号＋名称＋一句短解析。解析突出选项特点或视觉效果，尽量控制在10字以内。2～3列，一屏显示。
-
-支持点击时优先点击；无法点击时使用编号或名称。
-
-【捏人项目】
-
-①朝代
-先秦｜秦汉｜魏晋南北朝｜隋唐｜五代十国｜宋｜辽金元｜明｜清
-
-②身材
-娇小纤秀｜纤细柔婉｜自然匀称｜高挑修长｜柔婉丰润｜丰姿婀娜
-
-③气质
-清雅｜温婉｜明艳｜灵秀｜端庄｜妩媚｜清冷｜娇憨
-
-④发式
-根据朝代提供6～8种有历史依据的女性传统发式。
-
-⑤服饰
-根据朝代提供6～8种有文物、绘画、考古或文献依据的女性传统服饰形制。禁止现代新中式、泛中国风、影视架空服饰。
-
-⑥妆容
-根据朝代提供6～8种有历史依据的女性妆容。
-
-⑦场景
-根据朝代提供6～8种符合时代建筑、生活方式和社会环境的女性生活场景。
-
-⑧神态
-根据①～⑦已确定的全部设定，动态生成8种最符合当前人物、场景和情境的神态。
-
-8种神态须有明显区别，避免重复、冲突和泛化。⑧不使用固定选项池。
-
-【朝代联动】
-
-④发式、⑤服饰、⑥妆容、⑦场景必须与①朝代一致。
-
-辽金元需分别处理，不得混合三个时期。
-
-修改①朝代，只重新处理④⑤⑥⑦；②③保持不变。
-
-修改④～⑦任一项目后，检查后续项目是否与最新设定冲突，有冲突则重新处理；⑧始终根据最新①～⑦重新生成。
-
-【状态与操作】
-
-始终保存已选项目。
-
-“随机”：随机当前项目，已锁定则无效。
-
-“换一个”：重新提供当前项目选项，已锁定则无效。
-
-“锁定”：锁定当前项目，限制随机、换一个和全部随机改变该项目。
-
-“修改设定”：用户明确指定修改时，可以修改已锁定项目。
-
-“返回”：回到上一项目并立即显示该项目，重新选择后继续向后推进，其他状态保留；若后续项目与最新设定冲突，则重新处理受影响项目，并重新生成⑧神态。
-
-“全部随机”：随机所有未锁定项目，已锁定项目保持不变，从①开始；遇到已锁定项目直接保留并进入下一项。完成①～⑦后，根据最新设定重新生成⑧神态。
-
-“重新捏人”：清空全部设定，从①开始。
-
-支持直接说“换成明代”“发式换一个”“改成浅笑”等，根据语义执行。
-
-【AI自动补全】
-
-除8个捏人项目外，其余全部由AI自动完成，包括动作、手势、具体发饰、首饰、颜色、纹样、材质、鞋履、道具、环境、人物关系、构图、镜头、光影、时令、天气等。
-
-时令：春｜夏｜秋｜冬
-天气：晴｜阴｜薄雾｜细雨｜雪
-
-所有自动补全必须符合人物、朝代、服饰、发式、妆容和场景。
-
-【固定人物】
-
-成年女性；身材自然；比例协调；真实肤质。
-
-【固定摄影】
-
-手机生活抓拍 × CCD直闪；9:16竖幅；原生数码照片。
-
-摄影风格固定，不作为选择项目，不改变历史语境。
-
-【完成】
-
-完成⑧神态后，必须依次输出：
-
-【完整角色设定】
-
-①朝代：当前选择
-②身材：当前选择
-③气质：当前选择
-④发式：当前选择
-⑤服饰：当前选择
-⑥妆容：当前选择
-⑦场景：当前选择
-⑧神态：当前选择
-
-【最终图片提示词】
-
-完整整合8项设定，并自动补全动作、手势、发饰、首饰、服装细节、颜色、纹样、材质、鞋履、道具、环境、人物关系、时令、天气、构图、镜头和光影。
-
-保持历史一致性，并加入：
-
-手机生活抓拍 × CCD直闪；9:16竖幅；原生数码照片。
-
-最终提示词必须完整、连贯、可直接复制用于图片生成，不得只输出关键词或省略已选设定。
-
-提示词最后加入：
-
-左下签名“● DeepBlue”；“●”为纯 #0B3D91 深蓝色实心圆点，“DeepBlue”为白色自然手写字体
-
-然后显示：
-
-① 生成图片
-② 修改设定
-③ 重新捏人
-
-【生成】
-
-输入“1”“生成”或“出图”，立即根据最终图片提示词生成图片。
-
-【修改】
-
-输入“2”后指定项目并重新选择。
-
-修改后重新输出完整角色设定和最终图片提示词，再显示①②③。
-
-【重新捏人】
-
-输入“3”或“重新捏人”，清空角色，从①开始。
-
-【再来一个】
-
-保留8项核心设定和固定摄影。
-
-只重新演绎动作、环境、时令、天气、构图、镜头和光影。
-
-不得改变8项核心设定或固定摄影。
-
-生成新的最终图片提示词并立即生成。
-
-【最终规则】
-
-这是连续捏人游戏，不是普通问答。
-
-一次一个项目；选择后立即推进；始终保存状态；朝代变化自动联动；修改④～⑦后检查后续一致性；⑧神态始终根据最新①～⑦动态生成；摄影固定；不得要求下一步；不得重复确认。
-
-完成⑧后必须：
-
-输出完整角色设定
-→ 输出完整图片提示词
-→ 显示①②③
-
-不得跳过完整图片提示词。
-
-点击不可用时，立即降级为编号或名称选择，不得中断流程。
-
-现在开始，只展示①朝代。
-```
-
-</details>
-
-**Prompt credit / source:** [DeepBlue深藍](https://x.com/DeepBlueX0) · [Original post](https://x.com/DeepBlueX0/status/2097897602356306361)
-
 ### Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its…
 
 <a href="https://x.com/Naiknelofar788/status/2097996229582147939"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR2UcbRbIAAGggr.thumb.webp" width="460" alt="Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its…"></a>
 
-**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 593 views
+**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 598 views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -308,7 +124,7 @@ a photorealistic, taken by phone photo of a handwritten essay in pencil, albert 
 
 <a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="460" alt="2/ the woman location image"></a>
 
-**Image credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698730564796683) · X · GPT Image 2.5 · 2026-09-09 · 7K views
+**Image credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698730564796683) · X · GPT Image 2.5 · 2026-09-09 · 7.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -324,7 +140,7 @@ Two women framed by a sun-bleached stone archway — one in the near foreground 
 
 <a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR1utPuasAABAU8.thumb.webp" width="460" alt="Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the…"></a>
 
-**Image credit / source:** [Saul Goodman](https://x.com/Goodmanprotocol) · [Original post](https://x.com/Goodmanprotocol/status/2097954772586557873) · X · GPT Image 2.5 · 2026-09-10 · 4.6K views
+**Image credit / source:** [Saul Goodman](https://x.com/Goodmanprotocol) · [Original post](https://x.com/Goodmanprotocol/status/2097954772586557873) · X · GPT Image 2.5 · 2026-09-10 · 4.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -505,7 +321,7 @@ cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warp
 
 <a href="https://x.com/Naiknelofar788/status/2097920025617399875"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR1PFgUasAAJbTM.thumb.webp" width="460" alt="GPT image 2.5 on ChatGPT"></a>
 
-**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097920025617399875) · X · GPT Image 2.5 · 2026-09-10 · 1K views
+**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097920025617399875) · X · GPT Image 2.5 · 2026-09-10 · 1.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -568,7 +384,7 @@ OVERALL: Clean white background, bold red watercolor left side, green watercolor
 
 <a href="https://x.com/miratechtool/status/2097710852413497646"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyQ5SpXgAA9LW9.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
-**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097710852413497646) · X · GPT Image 2.5 · 2026-09-09 · 542 views
+**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097710852413497646) · X · GPT Image 2.5 · 2026-09-09 · 543 views
 
 <details><summary><b>Prompt</b></summary>
 
