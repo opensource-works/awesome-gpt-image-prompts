@@ -76,7 +76,7 @@ Using my uploaded photo, show me what I would have looked like around 1985. Pres
 
 ### GPT Image 2.5 is insane！
 
-<a href="https://x.com/listudio/status/2097652659788619894"><img src="https://pbs.twimg.com/media/HRxb7cJboAAiH2G.jpg?name=orig" width="460" alt="GPT Image 2.5 is insane！"></a>
+<a href="https://x.com/listudio/status/2097652659788619894"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxb7cJboAAiH2G.thumb.webp" width="460" alt="GPT Image 2.5 is insane！"></a>
 
 **图片署名 / 来源：** [leolee](https://x.com/listudio) · [X 原帖](https://x.com/listudio/status/2097652659788619894) · X · GPT Image 2.5 · 2026-09-09 · 725 浏览
 
@@ -113,7 +113,7 @@ More Prompt  ➡️ http://genvizu.com.
 
 <a href="https://x.com/Naiknelofar788/status/2097996229582147939"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR2UcbRbIAAGggr.thumb.webp" width="460" alt="Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its…"></a>
 
-**图片署名 / 来源：** [simeon-sanai](https://x.com/Naiknelofar788) · [X 原帖](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 604 浏览
+**图片署名 / 来源：** [simeon-sanai](https://x.com/Naiknelofar788) · [X 原帖](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 605 浏览
 
 <details><summary><b>提示词</b></summary>
 
@@ -272,9 +272,9 @@ The final image should feel like a world-class handcrafted travel campaign-insta
 
 ### 电商穿搭 Lookbook👀 感觉正好能测它的人物、商品细节、排版和文字生成四项能力。挺能打了，你们觉得呢？
 
-<a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="https://pbs.twimg.com/media/HRxjwN-awAIL8Pn.jpg?name=orig" width="460" alt="电商穿搭 Lookbook👀 感觉正好能测它的人物、商品细节、排版和文字生成四项能力。挺能打了，你们觉得呢？"></a>
+<a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxjwN-awAIL8Pn.thumb.webp" width="460" alt="电商穿搭 Lookbook👀 感觉正好能测它的人物、商品细节、排版和文字生成四项能力。挺能打了，你们觉得呢？"></a>
 
-**图片署名 / 来源：** [诗泳研AI](https://x.com/LiEvanna85716) · [X 原帖](https://x.com/LiEvanna85716/status/2097663816339427547) · X · GPT Image 2.5 Sunburst · 2026-09-09 · 537 浏览
+**图片署名 / 来源：** [诗泳研AI](https://x.com/LiEvanna85716) · [X 原帖](https://x.com/LiEvanna85716/status/2097663816339427547) · X · GPT Image 2.5 Sunburst · 2026-09-09 · 538 浏览
 
 <details><summary><b>提示词</b></summary>
 
@@ -306,7 +306,7 @@ Vertical 3:4 composition, high-resolution commercial fashion photography.
 
 ### GPT image 2.5 Flare on @MageSpace_
 
-<a href="https://x.com/Diplomeme/status/2097641872068063436"><img src="https://pbs.twimg.com/media/HRxSKJMbYAAuiRA.jpg?name=orig" width="460" alt="GPT image 2.5 Flare on @MageSpace_"></a>
+<a href="https://x.com/Diplomeme/status/2097641872068063436"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxSKJMbYAAuiRA.thumb.webp" width="460" alt="GPT image 2.5 Flare on @MageSpace_"></a>
 
 **图片署名 / 来源：** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) · [X 原帖](https://x.com/Diplomeme/status/2097641872068063436) · X · GPT Image 2.5 Flare · 2026-09-09 · 5.8K 浏览
 
@@ -448,7 +448,7 @@ cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warp
 
 ### GPT image 2.5 on ChatGPT
 
-<a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoHva0AADhqK.jpg?name=orig" width="460" alt="GPT image 2.5 on ChatGPT"></a>
+<a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxWoHva0AADhqK.thumb.webp" width="460" alt="GPT image 2.5 on ChatGPT"></a>
 
 **图片署名 / 来源：** [simeon-sanai](https://x.com/Naiknelofar788) · [X 原帖](https://x.com/Naiknelofar788/status/2097646788258021837) · X · GPT Image 2.5 · 2026-09-09 · 9.4K 浏览
 
@@ -500,7 +500,7 @@ OVERALL: Clean white background, bold red watercolor left side, green watercolor
 
 ### Made with GPT Image 2.5
 
-<a href="https://x.com/AI__TSUBAKI/status/2097448516322988041"><img src="https://pbs.twimg.com/media/HRuiGlXaAAA0TKd.jpg?name=orig" width="460" alt="Made with GPT Image 2.5"></a>
+<a href="https://x.com/AI__TSUBAKI/status/2097448516322988041"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRuiGlXaAAA0TKd.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
 **图片署名 / 来源：** [TSUBAKI](https://x.com/AI__TSUBAKI) · [X 原帖](https://x.com/AI__TSUBAKI/status/2097448516322988041) · X · GPT Image 2.5 · 2026-09-08 · 1.1K 浏览
 
