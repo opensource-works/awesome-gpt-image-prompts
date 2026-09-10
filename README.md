@@ -21,35 +21,36 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 
 | | |
 |---|---|
-| Posts | **13** |
-| Source accounts credited | **9** |
-| Posts with the full prompt | **13** |
-| Where they came from | 13 from X |
-| Checkpoints covered | **GPT Image 2.5** (13) |
+| Posts | **17** |
+| Source accounts credited | **13** |
+| Posts with the full prompt | **17** |
+| Where they came from | 17 from X |
+| Checkpoints covered | **GPT Image 2.5** (15), **GPT Image 2.5 Flare** (1), **GPT Image 2.5 Sunburst** (1) |
 | Last refreshed | 2026-09-10 |
 
 ## Most engaged
 
 <table><tr>
 <td width="33%" valign="top"><a href="https://x.com/chetaslua/status/2095556181012128005"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRTozFXbwAAMDqF.thumb.webp" width="100%" alt=""></a><br><sub><b>🚨 GPT-Image-2.5 Output</b><br><a href="https://x.com/chetaslua">Chetaslua</a> · 91.8K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoHva0AADhqK.jpg?name=orig" width="100%" alt=""></a><br><sub><b>GPT image 2.5 on ChatGPT</b><br><a href="https://x.com/Naiknelofar788">simeon-sanai</a> · 9.4K views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698712978087966"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF3NOaQAAvoVo.thumb.webp" width="100%" alt=""></a><br><sub><b>1/ women Character sheet</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 8.1K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRySIFtWIAA0lcK.thumb.webp" width="100%" alt=""></a><br><sub><b>Made with GPT Image 2.5</b><br><a href="https://x.com/miratechtool">Mira</a> · 7.6K views</sub></td>
 </tr><tr>
+<td width="33%" valign="top"><a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRySIFtWIAA0lcK.thumb.webp" width="100%" alt=""></a><br><sub><b>Made with GPT Image 2.5</b><br><a href="https://x.com/miratechtool">Mira</a> · 7.7K views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="100%" alt=""></a><br><sub><b>2/ the woman location image</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 7.1K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR1utPuasAABAU8.thumb.webp" width="100%" alt=""></a><br><sub><b>Create an authentic 1980s retro-vintage portrait in a 4:5…</b><br><a href="https://x.com/Goodmanprotocol">Saul Goodman</a> · 4.7K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/jzaib4269/status/2092804796512346269"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HQsi2jBbUAAQ_4d.thumb.webp" width="100%" alt=""></a><br><sub><b>Created with GPT image 2.5 on ChatGPT</b><br><a href="https://x.com/jzaib4269">Jahan Zaib</a> · 2.6K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/Diplomeme/status/2097641872068063436"><img src="https://pbs.twimg.com/media/HRxSKJMbYAAuiRA.jpg?name=orig" width="100%" alt=""></a><br><sub><b>GPT image 2.5 Flare on @MageSpace_</b><br><a href="https://x.com/Diplomeme">ᴍᴜʀᴘʜʏ</a> · 5.8K views</sub></td>
 </tr></table>
 
 > Ordering is each post's standing among the posts from its own platform. An X view and a Reddit upvote are not the same unit and this repo does not pretend to convert between them.
 
 ## Contents
 
-- [Showcase](#showcase) — 3 posts
+- [Showcase](#showcase) — 4 posts
 - [Photoreal & Portrait](#photoreal-portrait) — 4 posts
 - [Infographic & Diagram](#infographic-diagram) — 1 posts
+- [Product & Ads](#product-ads) — 1 posts
 - [Design & Poster](#design-poster) — 3 posts
-- [Illustration & Anime](#illustration-anime) — 1 posts
-- [Editing & Restyle](#editing-restyle) — 1 posts
+- [Illustration & Anime](#illustration-anime) — 2 posts
+- [Editing & Restyle](#editing-restyle) — 2 posts
 
 ## Showcase
 
@@ -73,7 +74,7 @@ Multi-panel studio photographs of the same real woman across four panels: front-
 
 <a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRySIFtWIAA0lcK.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
-**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097712223044907454) · X · GPT Image 2.5 · 2026-09-09 · 7.6K views
+**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097712223044907454) · X · GPT Image 2.5 · 2026-09-09 · 7.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -85,11 +86,46 @@ Using my uploaded photo, show me what I would have looked like around 1985. Pres
 
 **Prompt credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097712223044907454)
 
+### GPT Image 2.5 is insane！
+
+<a href="https://x.com/listudio/status/2097652659788619894"><img src="https://pbs.twimg.com/media/HRxb7cJboAAiH2G.jpg?name=orig" width="460" alt="GPT Image 2.5 is insane！"></a>
+
+**Image credit / source:** [leolee](https://x.com/listudio) · [Original post](https://x.com/listudio/status/2097652659788619894) · X · GPT Image 2.5 · 2026-09-09 · 725 views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+请使用网页版当前最新的 GPT Image 2.5 生图能力直接生成图片，不要仅返回提示词。
+
+生成一张完整的创意设计公司中文官网视觉设计图，正面平视、无透视的桌面网页长截图，9:16 竖幅，尽可能高分辨率，完整显示从导航到页脚。白底，钴蓝、明黄、珊瑚红和浅天蓝配色，细窄留白、整齐网格、直角卡片、大胆斜切几何拼贴。整体年轻、明快、有设计实验感。
+
+顶部为纤细白色导航栏，左侧原创中文粗体字标“见造”，小标语“以创意，让世界更有趣”。右侧导航依次为“关于我们、创意服务、精选作品、加入我们、最新动态”，最右是蓝色“联系我们 →”按钮。
+
+首屏占全图约 27%，左侧以非常醒目的钴蓝粗黑体排两行“让有趣，”“改变世界。”，左下小字“以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。”右侧是一名明确成年的 20 岁中国女性，黑色齐肩发被微风吹动，自然淡妆，真实皮肤，微仰头望向右上方。穿钴蓝棉麻立领短袖上衣，简洁斜襟与少量同色盘扣，合身但不紧绷。人物与蓝色立方体、黄色球体、珊瑚红圆环、白色几何台座组合，背景浅蓝天空，明亮自然日光，材质和投影可信。
+
+首屏下方白色理念横栏占约 8%，左侧小字“我们的理念”，中间黑色粗标题“用创意，为社会留出想象。”，右侧正文“我们相信，好的设计不止解决问题，也让人与世界产生新的连接。”及“了解见造 →”。
+
+服务区占约 16%，左侧窄栏标题“创意服务”、简短介绍和“查看全部服务 →”；右侧三张等宽卡片：蓝底卡片以手持灯泡摄影配“品牌创意”，黄底卡片以彩色几何积木配“传播设计”，珊瑚红底卡片以打开的笔记本电脑配“数字体验”。每张卡片下方有两行简短中文介绍和右箭头。
+
+作品区占约 17%，左侧标题“精选作品”和“查看全部作品 →”，右侧四列平面作品缩略图，分别为有彩色颜料点缀的 20 岁中国女性肖像海报、城市几何装置海报、蓝白红编辑设计、山野艺术装置海报。四个项目名称依次为“自在生长”“城市游乐场”“灵感发生地”“山野之间”，缩略图中的可见文字也全部使用中文。
+
+招聘区占约 18%，整幅钴蓝横栏，左侧白色大标题“和有趣的人，一起创造新风景。”，正文“让热爱成为日常，让灵感自由生长。”及白底按钮“查看开放职位 →”。右侧三名明确成年的 20 岁中国女性坐在黄色与珊瑚红几何台阶上自然交流，分别穿蓝色立领上衣、米白棉麻衬衫、浅黄色简约针织上衣，搭配宽松长裤与干净平底鞋，黑色长发或齐肩短发，自然淡妆，青春、自信、亲切，非古装、非职业套装、无夸张饰品。
+
+下方约 6% 为白底“最新动态”栏，三行消息为“2026.09.09 见造全新品牌网站正式上线”“2026.09.08 城市游乐场创意计划发布”“2026.09.01 秋季创意伙伴招募开启”。最后约 8% 为简洁页脚，中文“见造”、导航和“© 2026 见造创意。保留所有权利。”，留出舒适下边距。所有界面文案为可读、准确的简体中文，标题与正文层级鲜明。无日文、无乱码、无第三方标志、无水印、无浏览器边框、无设备外壳。输出一张完整网页设计图。
+
+----
+More Prompt  ➡️ http://genvizu.com.
+```
+
+</details>
+
+**Prompt credit / source:** [leolee](https://x.com/listudio) · [Original post](https://x.com/listudio/status/2097652659788619894)
+
 ### Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its…
 
 <a href="https://x.com/Naiknelofar788/status/2097996229582147939"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR2UcbRbIAAGggr.thumb.webp" width="460" alt="Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its…"></a>
 
-**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 600 views
+**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 604 views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -238,7 +274,99 @@ The final image should feel like a world-class handcrafted travel campaign-insta
 **Prompt credit / source:** [Saul Goodman](https://x.com/Goodmanprotocol) · [Original post](https://x.com/Goodmanprotocol/status/2097890291860865291)
 
 
+## Product & Ads
+
+### 电商穿搭 Lookbook👀 感觉正好能测它的人物、商品细节、排版和文字生成四项能力。挺能打了，你们觉得呢？
+
+<a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="https://pbs.twimg.com/media/HRxjwN-awAIL8Pn.jpg?name=orig" width="460" alt="电商穿搭 Lookbook👀 感觉正好能测它的人物、商品细节、排版和文字生成四项能力。挺能打了，你们觉得呢？"></a>
+
+**Image credit / source:** [诗泳研AI](https://x.com/LiEvanna85716) · [Original post](https://x.com/LiEvanna85716/status/2097663816339427547) · X · GPT Image 2.5 Sunburst · 2026-09-09 · 537 views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit.
+Use a soft pastel pink, blue and lavender gradient background. Keep the overall design minimal, clean and slightly playful, like a modern Korean/Japanese fashion catalog.
+
+Show the full-body model as the main focus, with realistic skin, natural proportions and clear clothing details. The outfit should be simple and wearable: cardigan or hoodie, fitted top, shorts or pleated skirt, socks and sneakers/Mary Jane shoes.
+
+Add handwritten English annotations with thin arrows pointing to individual clothing pieces, such as “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” and “Bag”.
+
+Add a bold English fashion headline at the top: “AUTUMN DAILY OUTFIT”, plus a few small decorative English phrases such as “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” and “OUTFIT IDEAS FOR A BRIGHTER YOU”.
+
+Use a structured rectangular frame around the main content, subtle rounded corners, plenty of negative space, and only a few minimal heart/star doodles.
+
+The final image should feel like a polished fashion e-commerce campaign poster — minimal, youthful, realistic, highly readable typography, clean product presentation, not cluttered, with the outfit as the visual focus.
+
+Vertical 3:4 composition, high-resolution commercial fashion photography.
+```
+
+</details>
+
+**Prompt credit / source:** [诗泳研AI](https://x.com/LiEvanna85716) · [Original post](https://x.com/LiEvanna85716/status/2097663816339427547)
+
+
 ## Design & Poster
+
+### GPT image 2.5 Flare on @MageSpace_
+
+<a href="https://x.com/Diplomeme/status/2097641872068063436"><img src="https://pbs.twimg.com/media/HRxSKJMbYAAuiRA.jpg?name=orig" width="460" alt="GPT image 2.5 Flare on @MageSpace_"></a>
+
+**Image credit / source:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) · [Original post](https://x.com/Diplomeme/status/2097641872068063436) · X · GPT Image 2.5 Flare · 2026-09-09 · 5.8K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+4:5 vertical social poster, ultra high resolution, 8K
+
+SCENE / BACKGROUND:
+Flat racing yellow with subtle gradient (light → deep amber)
+Grain texture 2–3%
+Soft rectangular overlays at 3% opacity
+
+PRODUCT:
+Porsche 911 GT3 RS
+Gloss yellow with carbon details
+Rear 3/4 angle, slightly elevated
+Wing dominant
+
+Position:
+Right of center
+
+TYPOGRAPHY:
+“PORSCHE”
+Ultra tall, condensed, stretched
+Deep charcoal
+
+Secondary:
+“PORSCHE 911 GT3 RS”
+
+EDITORIAL:
+“Porsche — Where Precision Meets Passion”
+
+Focus:
+engineering, obsession, track DNA
+
+FADED TEXT:
+“GT3 RS” at 3–5%
+
+SPECS:
+386 kW / 525 PS
+3.2 s
+296 km/h
+
+LIGHTING:
+Clean studio, sharp highlights
+
+MOOD:
+Precision.
+Iconic.
+Timeless performance.
+```
+
+</details>
+
+**Prompt credit / source:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) · [Original post](https://x.com/Diplomeme/status/2097641872068063436)
 
 ### Created with GPT image 2.5 on ChatGPT
 
@@ -317,49 +445,39 @@ cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warp
 
 **Prompt credit / source:** [KrishnaG](https://x.com/KrishnaBio1) · [Original post](https://x.com/KrishnaBio1/status/2097716825668702388)
 
+
+## Illustration & Anime
+
 ### GPT image 2.5 on ChatGPT
 
-<a href="https://x.com/Naiknelofar788/status/2097920025617399875"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR1PFgUasAAJbTM.thumb.webp" width="460" alt="GPT image 2.5 on ChatGPT"></a>
+<a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoHva0AADhqK.jpg?name=orig" width="460" alt="GPT image 2.5 on ChatGPT"></a>
 
-**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097920025617399875) · X · GPT Image 2.5 · 2026-09-10 · 1.1K views
+**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097646788258021837) · X · GPT Image 2.5 · 2026-09-09 · 9.4K views
 
 <details><summary><b>Prompt</b></summary>
 
 ```text
-Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+Create a charming handcrafted miniature travel scene featuring [ICONIC STRUCTURE] as the main focal point.
+Show the landmark as a beautifully sculpted tiny 3D model, with soft rounded details, handmade textures, delicate imperfections, and a whimsical storybook feeling. Surround it with a few subtle elements that represent its location—such as tiny trees, flowers, streets, boats, mountains, clouds, or local objects—without making the scene crowded.
 
-Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.
+Place everything on a clean warm-white textured paper background, with plenty of elegant negative space. Add a small tasteful wooden or paper travel plaque containing:
 
-Add one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.
+[STRUCTURE NAME]
+[CITY, COUNTRY]
+Famous for: [SHORT UNIQUE FACT]
 
-Use a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.
-
-Add a tall integrated sign or architectural panel featuring:
-
-[CITY]
-[LOCAL SCRIPT]
-
-Include small refined editorial typography at the bottom:
-
-[COUNTRY]
-[CITY] • [COORDINATES]
-[SHORT DESTINATION PHRASE]
-
-Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format.
+Use soft natural lighting, gentle shadows, pastel yet realistic colors, miniature diorama depth, handcrafted clay/paper textures, and a premium cute travel-journal aesthetic. Centered composition, highly detailed landmark, adorable but sophisticated, clean and collectible travel-card design, no photorealistic people, no clutter.
 ```
 
 </details>
 
-**Prompt credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097920025617399875)
-
-
-## Illustration & Anime
+**Prompt credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097646788258021837)
 
 ### GPT Image 2.5 prompt
 
 <a href="https://x.com/TechieBySA/status/2097738632941461886"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyqKm2bsAAbR7g.thumb.webp" width="460" alt="GPT Image 2.5 prompt"></a>
 
-**Image credit / source:** [TechieSA](https://x.com/TechieBySA) · [Original post](https://x.com/TechieBySA/status/2097738632941461886) · X · GPT Image 2.5 · 2026-09-09 · 625 views
+**Image credit / source:** [TechieSA](https://x.com/TechieBySA) · [Original post](https://x.com/TechieBySA/status/2097738632941461886) · X · GPT Image 2.5 · 2026-09-09 · 626 views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -382,9 +500,25 @@ OVERALL: Clean white background, bold red watercolor left side, green watercolor
 
 ### Made with GPT Image 2.5
 
+<a href="https://x.com/AI__TSUBAKI/status/2097448516322988041"><img src="https://pbs.twimg.com/media/HRuiGlXaAAA0TKd.jpg?name=orig" width="460" alt="Made with GPT Image 2.5"></a>
+
+**Image credit / source:** [TSUBAKI](https://x.com/AI__TSUBAKI) · [Original post](https://x.com/AI__TSUBAKI/status/2097448516322988041) · X · GPT Image 2.5 · 2026-09-08 · 1.1K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Ultra-realistic iPhone creative portrait, identity preserved exactly from reference image.  Young woman standing indoors in front of a glass storefront or reflective wall, photographed from a slightly high front angle. She holds a smartphone horizontally directly in front of her face, covering her eyes and upper face in real life. The phone screen faces the camera and clearly shows a live camera/photo view of her face.  Composition: The real woman is visible behind the phone, but her face is mostly hidden by the horizontal phone. On the phone screen, her face appears clearly centered, smiling softly and winking. The phone acts like a frame within the frame. Her hand grips the top edge of the phone, fingers visible across the top.  Pose: One hand holds the phone horizontally across her face. Her other hand is lower near her waist making a peace sign or casual gesture. She stands relaxed, facing camera.  Outfit: White fitted zip-front sleeveless top, loose light-wash baggy jeans, brown belt, playful accessories, rings, bracelet, red-and-white shoulder bag, small plush/keychain accessories hanging from bag or belt.  Phone screen details: The phone screen shows a clean live-camera image of her face with a wink and soft smile. Add cute sticker-style doodles around the screen/photo area: small colorful sparkles, stars, flower sticker near the face. The stickers should look like playful phone-camera decoration, not random floating objects.  Environment: Indoor mall/storefront area with glass doors, reflections, polished floor, soft daylight mixed with indoor light, casual streetwear snapshot vibe.  Camera + lighting: 0.5x iPhone wide-angle photo, close candid framing, realistic reflections on glass and phone screen, slight distortion on hands, raw social-media feel.  Important: Match the phone-covering-face composition, horizontal phone screen showing her face, wink expression on screen, hand gripping phone, playful stickers, white zip top, baggy jeans, accessories, and indoor glass background closely.  Natural skin texture, realistic screen reflections, no beauty filter, no smoothing. 4K vertical 9:16.
+```
+
+</details>
+
+**Prompt credit / source:** [TSUBAKI](https://x.com/AI__TSUBAKI) · [Original post](https://x.com/AI__TSUBAKI/status/2097448516322988041)
+
+### Made with GPT Image 2.5
+
 <a href="https://x.com/miratechtool/status/2097710852413497646"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyQ5SpXgAA9LW9.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
-**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097710852413497646) · X · GPT Image 2.5 · 2026-09-09 · 543 views
+**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097710852413497646) · X · GPT Image 2.5 · 2026-09-09 · 545 views
 
 <details><summary><b>Prompt</b></summary>
 
