@@ -1,0 +1,105 @@
+name: Refresh index
+
+# Re-fetches every indexed X post so view counts stay current, and rebuilds the
+# gallery whenever a URL is merged into scripts/urls.txt.
+#
+# Reddit rows are NOT refreshed here and cannot be: Reddit refuses anonymous
+# API access from every host and user agent tried, so a runner cannot read a
+# post. Those rows come from data/reddit.json, which the discovery half writes
+# from inside a logged-in browser and commits. A Reddit score in this index is
+# therefore the value from the last local sweep.
+on:
+  schedule:
+    - cron: "17 6 * * 1"   # Mondays, 06:17 UTC
+  push:
+    branches: [main]
+    paths:
+      - "scripts/urls.txt"
+      - "scripts/overrides.json"
+      - "scripts/harvest.py"
+      - "scripts/build.py"
+      - "scripts/mirror.py"
+      - "data/reddit.json"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild these posts' mirrored images from scratch even when the objects already exist (comma-separated post ids, or 'all'). Needed after a sizing change, since a normal run skips keys that are already in the bucket."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # ffmpeg does the WebP encoding, so the mirror step needs it. apt on the
+      # hosted runners hangs often enough to matter, so: skip when the image
+      # already ships ffmpeg, retry when it doesn't, and cap the step so a hang
+      # fails fast instead of stalling the whole refresh.
+      - name: Install ffmpeg
+        timeout-minutes: 6
+        run: |
+          if command -v ffmpeg >/dev/null 2>&1; then
+            ffmpeg -version | head -1
+            exit 0
+          fi
+          for attempt in 1 2 3; do
+            if sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg; then
+              ffmpeg -version | head -1
+              exit 0
+            fi
+            echo "apt attempt $attempt failed, retrying in 10s"
+            sleep 10
+          done
+          echo "could not install ffmpeg" >&2
+          exit 1
+
+      - name: Harvest posts
+        run: python3 scripts/harvest.py
+
+      # Copies any still that isn't on R2 yet and cuts its thumbnail. Existing
+      # objects are skipped, so a normal run only touches new posts; force
+      # (manual dispatch only) rebuilds every derivative of the posts it names.
+      # Reddit's preview URLs are signed with an expiry, so an unmirrored
+      # Reddit row goes blank on its own schedule — this step is what stops it.
+      - name: Mirror new stills to R2
+        env:
+          R2_ACCOUNT: ${{ secrets.R2_ACCOUNT }}
+          R2_KEY_ID: ${{ secrets.R2_KEY_ID }}
+          R2_SECRET: ${{ secrets.R2_SECRET }}
+          R2_BUCKET: ${{ vars.R2_BUCKET }}
+          R2_PUBLIC_BASE: ${{ vars.R2_PUBLIC_BASE }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          if [ -n "$FORCE" ]; then
+            python3 scripts/mirror.py --force "$FORCE"
+          else
+            python3 scripts/mirror.py
+          fi
+
+      - name: Build gallery and READMEs
+        run: python3 scripts/build.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data docs README.md README.zh-CN.md; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git add data docs README.md README.zh-CN.md
+          git commit -m "chore: refresh GPT Image 2.5 post index"
+          git push
