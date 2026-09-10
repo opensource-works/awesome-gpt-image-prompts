@@ -77,7 +77,7 @@ Using my uploaded photo, show me what I would have looked like around 1985. Pres
 
 <a href="https://x.com/Naiknelofar788/status/2097996229582147939"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR2UcbRbIAAGggr.thumb.webp" width="460" alt="Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its…"></a>
 
-**图片署名 / 来源：** [simeon-sanai](https://x.com/Naiknelofar788) · [X 原帖](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 598 浏览
+**图片署名 / 来源：** [simeon-sanai](https://x.com/Naiknelofar788) · [X 原帖](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 600 浏览
 
 <details><summary><b>提示词</b></summary>
 
