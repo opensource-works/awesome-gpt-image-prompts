@@ -26,18 +26,18 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 | Posts with the full prompt | **17** |
 | Where they came from | 17 from X |
 | Checkpoints covered | **GPT Image 2.5** (15), **GPT Image 2.5 Flare** (1), **GPT Image 2.5 Sunburst** (1) |
-| Last refreshed | 2026-09-10 |
+| Last refreshed | 2026-09-14 |
 
 ## Most engaged
 
 <table><tr>
-<td width="33%" valign="top"><a href="https://x.com/chetaslua/status/2095556181012128005"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRTozFXbwAAMDqF.thumb.webp" width="100%" alt=""></a><br><sub><b>🚨 GPT-Image-2.5 Output</b><br><a href="https://x.com/chetaslua">Chetaslua</a> · 91.8K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxWoHva0AADhqK.thumb.webp" width="100%" alt=""></a><br><sub><b>GPT image 2.5 on ChatGPT</b><br><a href="https://x.com/Naiknelofar788">simeon-sanai</a> · 9.4K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698712978087966"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF3NOaQAAvoVo.thumb.webp" width="100%" alt=""></a><br><sub><b>1/ women Character sheet</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 8.1K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/chetaslua/status/2095556181012128005"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRTozFXbwAAMDqF.thumb.webp" width="100%" alt=""></a><br><sub><b>🚨 GPT-Image-2.5 Output</b><br><a href="https://x.com/chetaslua">Chetaslua</a> · 92K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR1utPuasAABAU8.thumb.webp" width="100%" alt=""></a><br><sub><b>Create an authentic 1980s retro-vintage portrait in a 4:5…</b><br><a href="https://x.com/Goodmanprotocol">Saul Goodman</a> · 14.2K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698712978087966"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF3NOaQAAvoVo.thumb.webp" width="100%" alt=""></a><br><sub><b>1/ women Character sheet</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 12.6K views</sub></td>
 </tr><tr>
-<td width="33%" valign="top"><a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRySIFtWIAA0lcK.thumb.webp" width="100%" alt=""></a><br><sub><b>Made with GPT Image 2.5</b><br><a href="https://x.com/miratechtool">Mira</a> · 7.7K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="100%" alt=""></a><br><sub><b>2/ the woman location image</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 7.1K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/Diplomeme/status/2097641872068063436"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxSKJMbYAAuiRA.thumb.webp" width="100%" alt=""></a><br><sub><b>GPT image 2.5 Flare on @MageSpace_</b><br><a href="https://x.com/Diplomeme">ᴍᴜʀᴘʜʏ</a> · 5.8K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="100%" alt=""></a><br><sub><b>2/ the woman location image</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 10.5K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxWoHva0AADhqK.thumb.webp" width="100%" alt=""></a><br><sub><b>GPT image 2.5 on ChatGPT</b><br><a href="https://x.com/Naiknelofar788">simeon-sanai</a> · 10.1K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRySIFtWIAA0lcK.thumb.webp" width="100%" alt=""></a><br><sub><b>Made with GPT Image 2.5</b><br><a href="https://x.com/miratechtool">Mira</a> · 9.2K views</sub></td>
 </tr></table>
 
 > Ordering is each post's standing among the posts from its own platform. An X view and a Reddit upvote are not the same unit and this repo does not pretend to convert between them.
@@ -58,7 +58,7 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 
 <a href="https://x.com/abxxai/status/2097698712978087966"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF3NOaQAAvoVo.thumb.webp" width="460" alt="1/ women Character sheet"></a>
 
-**Image credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698712978087966) · X · GPT Image 2.5 · 2026-09-09 · 8.1K views
+**Image credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698712978087966) · X · GPT Image 2.5 · 2026-09-09 · 12.6K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -74,7 +74,7 @@ Multi-panel studio photographs of the same real woman across four panels: front-
 
 <a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRySIFtWIAA0lcK.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
-**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097712223044907454) · X · GPT Image 2.5 · 2026-09-09 · 7.7K views
+**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097712223044907454) · X · GPT Image 2.5 · 2026-09-09 · 9.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -90,7 +90,7 @@ Using my uploaded photo, show me what I would have looked like around 1985. Pres
 
 <a href="https://x.com/listudio/status/2097652659788619894"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxb7cJboAAiH2G.thumb.webp" width="460" alt="GPT Image 2.5 is insane！"></a>
 
-**Image credit / source:** [leolee](https://x.com/listudio) · [Original post](https://x.com/listudio/status/2097652659788619894) · X · GPT Image 2.5 · 2026-09-09 · 725 views
+**Image credit / source:** [leolee](https://x.com/listudio) · [Original post](https://x.com/listudio/status/2097652659788619894) · X · GPT Image 2.5 · 2026-09-09 · 1.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -125,7 +125,7 @@ More Prompt  ➡️ http://genvizu.com.
 
 <a href="https://x.com/Naiknelofar788/status/2097996229582147939"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR2UcbRbIAAGggr.thumb.webp" width="460" alt="Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its…"></a>
 
-**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 605 views
+**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 1.6K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -144,7 +144,7 @@ Create a unique 3D miniature [COUNTRY] where the entire national border is forme
 
 <a href="https://x.com/chetaslua/status/2095556181012128005"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRTozFXbwAAMDqF.thumb.webp" width="460" alt="🚨 GPT-Image-2.5 Output"></a>
 
-**Image credit / source:** [Chetaslua](https://x.com/chetaslua) · [Original post](https://x.com/chetaslua/status/2095556181012128005) · X · GPT Image 2.5 · 2026-09-03 · 91.8K views
+**Image credit / source:** [Chetaslua](https://x.com/chetaslua) · [Original post](https://x.com/chetaslua/status/2095556181012128005) · X · GPT Image 2.5 · 2026-09-03 · 92K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -156,27 +156,11 @@ a photorealistic, taken by phone photo of a handwritten essay in pencil, albert 
 
 **Prompt credit / source:** [Chetaslua](https://x.com/chetaslua) · [Original post](https://x.com/chetaslua/status/2095556181012128005)
 
-### 2/ the woman location image
-
-<a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="460" alt="2/ the woman location image"></a>
-
-**Image credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698730564796683) · X · GPT Image 2.5 · 2026-09-09 · 7.1K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman with long straight golden-brown hair loosely pulled back with soft face-framing pieces, warm honey-blonde balayage catching the light, an oval face with warm brown eyes, softly tanned olive-warm skin and full lips, small stud earrings, wearing a rust-terracotta linen wrap top and matching wide-leg linen trousers cinched with a woven raffia belt, hands clasped in front of her, turned back over her shoulder toward camera; a second woman, features unspecified, stands further back in the courtyard in a deep forest-green silk blouse and wide-leg cream trousers, leaning against a whitewashed stone pillar, gazing out toward the sea. Setting: the threshold of a Mediterranean cliffside courtyard, hand-laid terracotta mosaic floor and a weathered stone archway thick with trailing bougainvillea in the foreground, a sun-drenched courtyard beyond with wrought-iron lanterns, potted olive trees and a low stone fountain, whitewashed rooftops and a pale hazy sea filling the horizon, soft late-afternoon light. Shot on an early-2000s point-and-shoot digicam with harsh direct on-camera fill flash that aggressively illuminates the near woman and the archway, flattening her features and putting sharp specular highlights on the linen, the stone and her shoulders; the courtyard and sea beyond stay visible but hazy, milky and underexposed relative to the flash. Warm, slightly saturated CCD tones, strong bloom and halation at the archway edges, minor digital noise. Candid amateur, Y2K editorial, unpolished but stylized.
-```
-
-</details>
-
-**Prompt credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698730564796683)
-
 ### Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the…
 
 <a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR1utPuasAABAU8.thumb.webp" width="460" alt="Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the…"></a>
 
-**Image credit / source:** [Saul Goodman](https://x.com/Goodmanprotocol) · [Original post](https://x.com/Goodmanprotocol/status/2097954772586557873) · X · GPT Image 2.5 · 2026-09-10 · 4.7K views
+**Image credit / source:** [Saul Goodman](https://x.com/Goodmanprotocol) · [Original post](https://x.com/Goodmanprotocol/status/2097954772586557873) · X · GPT Image 2.5 · 2026-09-10 · 14.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -194,11 +178,27 @@ Keep the lighting cinematic yet believable, with soft shadows, realistic highlig
 
 **Prompt credit / source:** [Saul Goodman](https://x.com/Goodmanprotocol) · [Original post](https://x.com/Goodmanprotocol/status/2097954772586557873)
 
+### 2/ the woman location image
+
+<a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="460" alt="2/ the woman location image"></a>
+
+**Image credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698730564796683) · X · GPT Image 2.5 · 2026-09-09 · 10.5K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Two women framed by a sun-bleached stone archway — one in the near foreground at frame right, a woman with long straight golden-brown hair loosely pulled back with soft face-framing pieces, warm honey-blonde balayage catching the light, an oval face with warm brown eyes, softly tanned olive-warm skin and full lips, small stud earrings, wearing a rust-terracotta linen wrap top and matching wide-leg linen trousers cinched with a woven raffia belt, hands clasped in front of her, turned back over her shoulder toward camera; a second woman, features unspecified, stands further back in the courtyard in a deep forest-green silk blouse and wide-leg cream trousers, leaning against a whitewashed stone pillar, gazing out toward the sea. Setting: the threshold of a Mediterranean cliffside courtyard, hand-laid terracotta mosaic floor and a weathered stone archway thick with trailing bougainvillea in the foreground, a sun-drenched courtyard beyond with wrought-iron lanterns, potted olive trees and a low stone fountain, whitewashed rooftops and a pale hazy sea filling the horizon, soft late-afternoon light. Shot on an early-2000s point-and-shoot digicam with harsh direct on-camera fill flash that aggressively illuminates the near woman and the archway, flattening her features and putting sharp specular highlights on the linen, the stone and her shoulders; the courtyard and sea beyond stay visible but hazy, milky and underexposed relative to the flash. Warm, slightly saturated CCD tones, strong bloom and halation at the archway edges, minor digital noise. Candid amateur, Y2K editorial, unpolished but stylized.
+```
+
+</details>
+
+**Prompt credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698730564796683)
+
 ### A realistic candid travel photo of a young East Asian woman standing on an old stone…
 
 <a href="https://x.com/Aqsahere_/status/2097693634569396706"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyBPMdbUAA5cth.thumb.webp" width="460" alt="A realistic candid travel photo of a young East Asian woman standing on an old stone…"></a>
 
-**Image credit / source:** [Aqsa](https://x.com/Aqsahere_) · [Original post](https://x.com/Aqsahere_/status/2097693634569396706) · X · GPT Image 2.5 · 2026-09-09 · 1.4K views
+**Image credit / source:** [Aqsa](https://x.com/Aqsahere_) · [Original post](https://x.com/Aqsahere_/status/2097693634569396706) · X · GPT Image 2.5 · 2026-09-09 · 1.8K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -220,7 +220,7 @@ The sky is a deep gray-blue with soft clouds, contrasting naturally with the war
 
 <a href="https://x.com/Goodmanprotocol/status/2097890291860865291"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR00CbhacAAFzKP.thumb.webp" width="460" alt="Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5…"></a>
 
-**Image credit / source:** [Saul Goodman](https://x.com/Goodmanprotocol) · [Original post](https://x.com/Goodmanprotocol/status/2097890291860865291) · X · GPT Image 2.5 · 2026-09-10 · 1.5K views
+**Image credit / source:** [Saul Goodman](https://x.com/Goodmanprotocol) · [Original post](https://x.com/Goodmanprotocol/status/2097890291860865291) · X · GPT Image 2.5 · 2026-09-10 · 2.9K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -280,7 +280,7 @@ The final image should feel like a world-class handcrafted travel campaign-insta
 
 <a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxjwN-awAIL8Pn.thumb.webp" width="460" alt="电商穿搭 Lookbook👀 感觉正好能测它的人物、商品细节、排版和文字生成四项能力。挺能打了，你们觉得呢？"></a>
 
-**Image credit / source:** [诗泳研AI](https://x.com/LiEvanna85716) · [Original post](https://x.com/LiEvanna85716/status/2097663816339427547) · X · GPT Image 2.5 Sunburst · 2026-09-09 · 538 views
+**Image credit / source:** [诗泳研AI](https://x.com/LiEvanna85716) · [Original post](https://x.com/LiEvanna85716/status/2097663816339427547) · X · GPT Image 2.5 Sunburst · 2026-09-09 · 663 views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -312,7 +312,7 @@ Vertical 3:4 composition, high-resolution commercial fashion photography.
 
 <a href="https://x.com/Diplomeme/status/2097641872068063436"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxSKJMbYAAuiRA.thumb.webp" width="460" alt="GPT image 2.5 Flare on @MageSpace_"></a>
 
-**Image credit / source:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) · [Original post](https://x.com/Diplomeme/status/2097641872068063436) · X · GPT Image 2.5 Flare · 2026-09-09 · 5.8K views
+**Image credit / source:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) · [Original post](https://x.com/Diplomeme/status/2097641872068063436) · X · GPT Image 2.5 Flare · 2026-09-09 · 7.3K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -368,47 +368,11 @@ Timeless performance.
 
 **Prompt credit / source:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) · [Original post](https://x.com/Diplomeme/status/2097641872068063436)
 
-### Created with GPT image 2.5 on ChatGPT
-
-<a href="https://x.com/jzaib4269/status/2092804796512346269"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HQsi2jBbUAAQ_4d.thumb.webp" width="460" alt="Created with GPT image 2.5 on ChatGPT"></a>
-
-**Image credit / source:** [Jahan Zaib](https://x.com/jzaib4269) · [Original post](https://x.com/jzaib4269/status/2092804796512346269) · X · GPT Image 2.5 · 2026-08-27 · 2.6K views
-
-<details><summary><b>Prompt</b></summary>
-
-```text
-Create an irresistibly captivating, ultra-realistic close-up portrait of a naturally beautiful young woman designed to create an instant “STOP SCROLLING” reaction.
-
-The camera is extremely close to her face, capturing the mesmerizing warmth of her deep brown eyes as the undeniable focal point. Her eyes must look alive and intensely realistic, with intricate iris patterns, tiny natural veins, wetness along the waterline, crisp catchlights, and individual eyelashes sharply resolved.
-
-Her beauty is raw, authentic and imperfect—visible freckles scattered naturally across her cheeks and nose, realistic pores, subtle peach fuzz, tiny beauty marks, natural skin texture and delicate variations in tone. Do NOT make her skin artificially flawless. Above one eyebrow is a thin, naturally healed scar, while a subtle healed scar curves along her cheek, giving the portrait a mysterious, unforgettable character.
-
-Her long, glossy black hair falls naturally around her face, with a few delicate strands crossing her forehead and cheek. Her eyebrows are full, naturally shaped and individually detailed. Soft, naturally pink lips remain slightly relaxed, creating an effortless expression that feels candid rather than posed.
-
-THE VIRAL HOOK: Capture the exact split-second where she looks directly into the camera as if she has noticed the viewer. Her expression is calm, mysterious and emotionally magnetic—subtle vulnerability mixed with quiet confidence. The viewer should feel like they accidentally captured a private, once-in-a-lifetime moment.
-
-Lighting is soft cinematic daylight entering from one side, producing luminous highlights across her eyes, cheekbones and skin while maintaining realistic shadows. Add an extremely subtle atmospheric glow around the edges without making the image dreamy or artificial.
-
-Composition: extreme facial close-up, eyes positioned near the visual center, face filling almost the entire frame, slightly unconventional tilted camera angle, intimate perspective, natural asymmetry, realistic facial proportions.
-
-Camera realism: full-frame professional camera, 85mm portrait lens, f/1.4, razor-sharp focus on both eyes, extremely shallow depth of field, natural optical bokeh, realistic lens rendering, subtle filmic micro-contrast.
-
-Visual quality: hyper-photorealistic, cinematic editorial photography, 8K-level detail, HDR, physically accurate skin, realistic reflections, lifelike eyes, natural color grading, premium fashion-magazine aesthetic, authentic human imperfections, breathtaking micro-details.
-
-ABSOLUTELY AVOID: plastic skin, excessive retouching, doll-like face, CGI appearance, uncanny eyes, exaggerated makeup, fake freckles, over-saturated colors, excessive HDR, artificial skin smoothing, distorted facial anatomy, extra eyelashes, asymmetrical eyes, blurry eyes, watermark, text, logo.
-
-Overall feeling: beautiful enough to stop the scroll, realistic enough to feel like a photograph, mysterious enough to make people stare twice.
-```
-
-</details>
-
-**Prompt credit / source:** [Jahan Zaib](https://x.com/jzaib4269) · [Original post](https://x.com/jzaib4269/status/2092804796512346269)
-
 ### GPT image 2.5 GIF prompt 👇
 
 <a href="https://x.com/KrishnaBio1/status/2097716825668702388"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyWSj2XAAABt0j.thumb.webp" width="460" alt="GPT image 2.5 GIF prompt 👇"></a>
 
-**Image credit / source:** [KrishnaG](https://x.com/KrishnaBio1) · [Original post](https://x.com/KrishnaBio1/status/2097716825668702388) · X · GPT Image 2.5 · 2026-09-09 · 2.4K views
+**Image credit / source:** [KrishnaG](https://x.com/KrishnaBio1) · [Original post](https://x.com/KrishnaBio1/status/2097716825668702388) · X · GPT Image 2.5 · 2026-09-09 · 3.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -445,6 +409,42 @@ cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warp
 
 **Prompt credit / source:** [KrishnaG](https://x.com/KrishnaBio1) · [Original post](https://x.com/KrishnaBio1/status/2097716825668702388)
 
+### Created with GPT image 2.5 on ChatGPT
+
+<a href="https://x.com/jzaib4269/status/2092804796512346269"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HQsi2jBbUAAQ_4d.thumb.webp" width="460" alt="Created with GPT image 2.5 on ChatGPT"></a>
+
+**Image credit / source:** [Jahan Zaib](https://x.com/jzaib4269) · [Original post](https://x.com/jzaib4269/status/2092804796512346269) · X · GPT Image 2.5 · 2026-08-27 · 2.7K views
+
+<details><summary><b>Prompt</b></summary>
+
+```text
+Create an irresistibly captivating, ultra-realistic close-up portrait of a naturally beautiful young woman designed to create an instant “STOP SCROLLING” reaction.
+
+The camera is extremely close to her face, capturing the mesmerizing warmth of her deep brown eyes as the undeniable focal point. Her eyes must look alive and intensely realistic, with intricate iris patterns, tiny natural veins, wetness along the waterline, crisp catchlights, and individual eyelashes sharply resolved.
+
+Her beauty is raw, authentic and imperfect—visible freckles scattered naturally across her cheeks and nose, realistic pores, subtle peach fuzz, tiny beauty marks, natural skin texture and delicate variations in tone. Do NOT make her skin artificially flawless. Above one eyebrow is a thin, naturally healed scar, while a subtle healed scar curves along her cheek, giving the portrait a mysterious, unforgettable character.
+
+Her long, glossy black hair falls naturally around her face, with a few delicate strands crossing her forehead and cheek. Her eyebrows are full, naturally shaped and individually detailed. Soft, naturally pink lips remain slightly relaxed, creating an effortless expression that feels candid rather than posed.
+
+THE VIRAL HOOK: Capture the exact split-second where she looks directly into the camera as if she has noticed the viewer. Her expression is calm, mysterious and emotionally magnetic—subtle vulnerability mixed with quiet confidence. The viewer should feel like they accidentally captured a private, once-in-a-lifetime moment.
+
+Lighting is soft cinematic daylight entering from one side, producing luminous highlights across her eyes, cheekbones and skin while maintaining realistic shadows. Add an extremely subtle atmospheric glow around the edges without making the image dreamy or artificial.
+
+Composition: extreme facial close-up, eyes positioned near the visual center, face filling almost the entire frame, slightly unconventional tilted camera angle, intimate perspective, natural asymmetry, realistic facial proportions.
+
+Camera realism: full-frame professional camera, 85mm portrait lens, f/1.4, razor-sharp focus on both eyes, extremely shallow depth of field, natural optical bokeh, realistic lens rendering, subtle filmic micro-contrast.
+
+Visual quality: hyper-photorealistic, cinematic editorial photography, 8K-level detail, HDR, physically accurate skin, realistic reflections, lifelike eyes, natural color grading, premium fashion-magazine aesthetic, authentic human imperfections, breathtaking micro-details.
+
+ABSOLUTELY AVOID: plastic skin, excessive retouching, doll-like face, CGI appearance, uncanny eyes, exaggerated makeup, fake freckles, over-saturated colors, excessive HDR, artificial skin smoothing, distorted facial anatomy, extra eyelashes, asymmetrical eyes, blurry eyes, watermark, text, logo.
+
+Overall feeling: beautiful enough to stop the scroll, realistic enough to feel like a photograph, mysterious enough to make people stare twice.
+```
+
+</details>
+
+**Prompt credit / source:** [Jahan Zaib](https://x.com/jzaib4269) · [Original post](https://x.com/jzaib4269/status/2092804796512346269)
+
 
 ## Illustration & Anime
 
@@ -452,7 +452,7 @@ cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warp
 
 <a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxWoHva0AADhqK.thumb.webp" width="460" alt="GPT image 2.5 on ChatGPT"></a>
 
-**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097646788258021837) · X · GPT Image 2.5 · 2026-09-09 · 9.4K views
+**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097646788258021837) · X · GPT Image 2.5 · 2026-09-09 · 10.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -477,7 +477,7 @@ Use soft natural lighting, gentle shadows, pastel yet realistic colors, miniatur
 
 <a href="https://x.com/TechieBySA/status/2097738632941461886"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyqKm2bsAAbR7g.thumb.webp" width="460" alt="GPT Image 2.5 prompt"></a>
 
-**Image credit / source:** [TechieSA](https://x.com/TechieBySA) · [Original post](https://x.com/TechieBySA/status/2097738632941461886) · X · GPT Image 2.5 · 2026-09-09 · 626 views
+**Image credit / source:** [TechieSA](https://x.com/TechieBySA) · [Original post](https://x.com/TechieBySA/status/2097738632941461886) · X · GPT Image 2.5 · 2026-09-09 · 1.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -502,7 +502,7 @@ OVERALL: Clean white background, bold red watercolor left side, green watercolor
 
 <a href="https://x.com/AI__TSUBAKI/status/2097448516322988041"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRuiGlXaAAA0TKd.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
-**Image credit / source:** [TSUBAKI](https://x.com/AI__TSUBAKI) · [Original post](https://x.com/AI__TSUBAKI/status/2097448516322988041) · X · GPT Image 2.5 · 2026-09-08 · 1.1K views
+**Image credit / source:** [TSUBAKI](https://x.com/AI__TSUBAKI) · [Original post](https://x.com/AI__TSUBAKI/status/2097448516322988041) · X · GPT Image 2.5 · 2026-09-08 · 2.6K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -518,7 +518,7 @@ Ultra-realistic iPhone creative portrait, identity preserved exactly from refere
 
 <a href="https://x.com/miratechtool/status/2097710852413497646"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyQ5SpXgAA9LW9.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
-**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097710852413497646) · X · GPT Image 2.5 · 2026-09-09 · 545 views
+**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097710852413497646) · X · GPT Image 2.5 · 2026-09-09 · 668 views
 
 <details><summary><b>Prompt</b></summary>
 
