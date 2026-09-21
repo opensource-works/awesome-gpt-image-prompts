@@ -29,8 +29,8 @@
       }
     ],
     "stats": {
-      "views": 91954,
-      "likes": 619,
+      "views": 92045,
+      "likes": 618,
       "reposts": 25
     },
     "reach": 1.0
@@ -75,7 +75,7 @@
       }
     ],
     "stats": {
-      "views": 14246,
+      "views": 15203,
       "likes": 229,
       "reposts": 32
     },
@@ -105,8 +105,8 @@
     },
     "extra_images": [],
     "stats": {
-      "views": 12630,
-      "likes": 61,
+      "views": 13801,
+      "likes": 63,
       "reposts": 6
     },
     "reach": 0.882353
@@ -135,8 +135,8 @@
     },
     "extra_images": [],
     "stats": {
-      "views": 10493,
-      "likes": 32,
+      "views": 11425,
+      "likes": 34,
       "reposts": 1
     },
     "reach": 0.823529
@@ -181,8 +181,8 @@
       }
     ],
     "stats": {
-      "views": 10127,
-      "likes": 239,
+      "views": 10651,
+      "likes": 241,
       "reposts": 42
     },
     "reach": 0.764706
@@ -222,9 +222,9 @@
       }
     ],
     "stats": {
-      "views": 9232,
-      "likes": 158,
-      "reposts": 17
+      "views": 9445,
+      "likes": 156,
+      "reposts": 16
     },
     "reach": 0.705882
   },
@@ -268,8 +268,8 @@
       }
     ],
     "stats": {
-      "views": 7338,
-      "likes": 179,
+      "views": 7906,
+      "likes": 183,
       "reposts": 17
     },
     "reach": 0.647059
@@ -304,9 +304,9 @@
       }
     ],
     "stats": {
-      "views": 3689,
-      "likes": 46,
-      "reposts": 13
+      "views": 3814,
+      "likes": 45,
+      "reposts": 12
     },
     "reach": 0.588235
   },
@@ -350,11 +350,41 @@
       }
     ],
     "stats": {
-      "views": 2929,
-      "likes": 64,
+      "views": 3298,
+      "likes": 63,
       "reposts": 12
     },
     "reach": 0.529412
+  },
+  {
+    "id": "2097448516322988041",
+    "source": "x",
+    "url": "https://x.com/AI__TSUBAKI/status/2097448516322988041",
+    "title": "Made with GPT Image 2.5",
+    "text": "Made with GPT Image 2.5\n\n==================\n\nPrompt:\n\nUltra-realistic iPhone creative portrait, identity preserved exactly from reference image.  Young woman standing indoors in front of a glass storefront or reflective wall, photographed from a slightly high front angle. She holds a smartphone horizontally directly in front of her face, covering her eyes and upper face in real life. The phone screen faces the camera and clearly shows a live camera/photo view of her face.  Composition: The real woman is visible behind the phone, but her face is mostly hidden by the horizontal phone. On the phone screen, her face appears clearly centered, smiling softly and winking. The phone acts like a frame within the frame. Her hand grips the top edge of the phone, fingers visible across the top.  Pose: One hand holds the phone horizontally across her face. Her other hand is lower near her waist making a peace sign or casual gesture. She stands relaxed, facing camera.  Outfit: White fitted zip-front sleeveless top, loose light-wash baggy jeans, brown belt, playful accessories, rings, bracelet, red-and-white shoulder bag, small plush/keychain accessories hanging from bag or belt.  Phone screen details: The phone screen shows a clean live-camera image of her face with a wink and soft smile. Add cute sticker-style doodles around the screen/photo area: small colorful sparkles, stars, flower sticker near the face. The stickers should look like playful phone-camera decoration, not random floating objects.  Environment: Indoor mall/storefront area with glass doors, reflections, polished floor, soft daylight mixed with indoor light, casual streetwear snapshot vibe.  Camera + lighting: 0.5x iPhone wide-angle photo, close candid framing, realistic reflections on glass and phone screen, slight distortion on hands, raw social-media feel.  Important: Match the phone-covering-face composition, horizontal phone screen showing her face, wink expression on screen, hand gripping phone, playful stickers, white zip top, baggy jeans, accessories, and indoor glass background closely.  Natural skin texture, realistic screen reflections, no beauty filter, no smoothing. 4K vertical 9:16.",
+    "prompt": "Ultra-realistic iPhone creative portrait, identity preserved exactly from reference image.  Young woman standing indoors in front of a glass storefront or reflective wall, photographed from a slightly high front angle. She holds a smartphone horizontally directly in front of her face, covering her eyes and upper face in real life. The phone screen faces the camera and clearly shows a live camera/photo view of her face.  Composition: The real woman is visible behind the phone, but her face is mostly hidden by the horizontal phone. On the phone screen, her face appears clearly centered, smiling softly and winking. The phone acts like a frame within the frame. Her hand grips the top edge of the phone, fingers visible across the top.  Pose: One hand holds the phone horizontally across her face. Her other hand is lower near her waist making a peace sign or casual gesture. She stands relaxed, facing camera.  Outfit: White fitted zip-front sleeveless top, loose light-wash baggy jeans, brown belt, playful accessories, rings, bracelet, red-and-white shoulder bag, small plush/keychain accessories hanging from bag or belt.  Phone screen details: The phone screen shows a clean live-camera image of her face with a wink and soft smile. Add cute sticker-style doodles around the screen/photo area: small colorful sparkles, stars, flower sticker near the face. The stickers should look like playful phone-camera decoration, not random floating objects.  Environment: Indoor mall/storefront area with glass doors, reflections, polished floor, soft daylight mixed with indoor light, casual streetwear snapshot vibe.  Camera + lighting: 0.5x iPhone wide-angle photo, close candid framing, realistic reflections on glass and phone screen, slight distortion on hands, raw social-media feel.  Important: Match the phone-covering-face composition, horizontal phone screen showing her face, wink expression on screen, hand gripping phone, playful stickers, white zip top, baggy jeans, accessories, and indoor glass background closely.  Natural skin texture, realistic screen reflections, no beauty filter, no smoothing. 4K vertical 9:16.",
+    "prompt_in_thread": false,
+    "model": "GPT Image 2.5",
+    "category": "Editing & Restyle",
+    "date": "2026-09-08",
+    "author": {
+      "name": "TSUBAKI",
+      "handle": "AI__TSUBAKI",
+      "url": "https://x.com/AI__TSUBAKI",
+      "avatar": "https://pbs.twimg.com/profile_images/2099167075503874048/ZlBreeHm_200x200.jpg"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/HRuiGlXaAAA0TKd.jpg?name=orig",
+      "width": 941,
+      "height": 1672
+    },
+    "extra_images": [],
+    "stats": {
+      "views": 3000,
+      "likes": 24,
+      "reposts": 1
+    },
+    "reach": 0.470588
   },
   {
     "id": "2092804796512346269",
@@ -386,71 +416,11 @@
       }
     ],
     "stats": {
-      "views": 2721,
-      "likes": 72,
+      "views": 2861,
+      "likes": 70,
       "reposts": 5
     },
-    "reach": 0.470588
-  },
-  {
-    "id": "2097448516322988041",
-    "source": "x",
-    "url": "https://x.com/AI__TSUBAKI/status/2097448516322988041",
-    "title": "Made with GPT Image 2.5",
-    "text": "Made with GPT Image 2.5\n\n==================\n\nPrompt:\n\nUltra-realistic iPhone creative portrait, identity preserved exactly from reference image.  Young woman standing indoors in front of a glass storefront or reflective wall, photographed from a slightly high front angle. She holds a smartphone horizontally directly in front of her face, covering her eyes and upper face in real life. The phone screen faces the camera and clearly shows a live camera/photo view of her face.  Composition: The real woman is visible behind the phone, but her face is mostly hidden by the horizontal phone. On the phone screen, her face appears clearly centered, smiling softly and winking. The phone acts like a frame within the frame. Her hand grips the top edge of the phone, fingers visible across the top.  Pose: One hand holds the phone horizontally across her face. Her other hand is lower near her waist making a peace sign or casual gesture. She stands relaxed, facing camera.  Outfit: White fitted zip-front sleeveless top, loose light-wash baggy jeans, brown belt, playful accessories, rings, bracelet, red-and-white shoulder bag, small plush/keychain accessories hanging from bag or belt.  Phone screen details: The phone screen shows a clean live-camera image of her face with a wink and soft smile. Add cute sticker-style doodles around the screen/photo area: small colorful sparkles, stars, flower sticker near the face. The stickers should look like playful phone-camera decoration, not random floating objects.  Environment: Indoor mall/storefront area with glass doors, reflections, polished floor, soft daylight mixed with indoor light, casual streetwear snapshot vibe.  Camera + lighting: 0.5x iPhone wide-angle photo, close candid framing, realistic reflections on glass and phone screen, slight distortion on hands, raw social-media feel.  Important: Match the phone-covering-face composition, horizontal phone screen showing her face, wink expression on screen, hand gripping phone, playful stickers, white zip top, baggy jeans, accessories, and indoor glass background closely.  Natural skin texture, realistic screen reflections, no beauty filter, no smoothing. 4K vertical 9:16.",
-    "prompt": "Ultra-realistic iPhone creative portrait, identity preserved exactly from reference image.  Young woman standing indoors in front of a glass storefront or reflective wall, photographed from a slightly high front angle. She holds a smartphone horizontally directly in front of her face, covering her eyes and upper face in real life. The phone screen faces the camera and clearly shows a live camera/photo view of her face.  Composition: The real woman is visible behind the phone, but her face is mostly hidden by the horizontal phone. On the phone screen, her face appears clearly centered, smiling softly and winking. The phone acts like a frame within the frame. Her hand grips the top edge of the phone, fingers visible across the top.  Pose: One hand holds the phone horizontally across her face. Her other hand is lower near her waist making a peace sign or casual gesture. She stands relaxed, facing camera.  Outfit: White fitted zip-front sleeveless top, loose light-wash baggy jeans, brown belt, playful accessories, rings, bracelet, red-and-white shoulder bag, small plush/keychain accessories hanging from bag or belt.  Phone screen details: The phone screen shows a clean live-camera image of her face with a wink and soft smile. Add cute sticker-style doodles around the screen/photo area: small colorful sparkles, stars, flower sticker near the face. The stickers should look like playful phone-camera decoration, not random floating objects.  Environment: Indoor mall/storefront area with glass doors, reflections, polished floor, soft daylight mixed with indoor light, casual streetwear snapshot vibe.  Camera + lighting: 0.5x iPhone wide-angle photo, close candid framing, realistic reflections on glass and phone screen, slight distortion on hands, raw social-media feel.  Important: Match the phone-covering-face composition, horizontal phone screen showing her face, wink expression on screen, hand gripping phone, playful stickers, white zip top, baggy jeans, accessories, and indoor glass background closely.  Natural skin texture, realistic screen reflections, no beauty filter, no smoothing. 4K vertical 9:16.",
-    "prompt_in_thread": false,
-    "model": "GPT Image 2.5",
-    "category": "Editing & Restyle",
-    "date": "2026-09-08",
-    "author": {
-      "name": "TSUBAKI",
-      "handle": "AI__TSUBAKI",
-      "url": "https://x.com/AI__TSUBAKI",
-      "avatar": "https://pbs.twimg.com/profile_images/2099167075503874048/ZlBreeHm_200x200.jpg"
-    },
-    "image": {
-      "url": "https://pbs.twimg.com/media/HRuiGlXaAAA0TKd.jpg?name=orig",
-      "width": 941,
-      "height": 1672
-    },
-    "extra_images": [],
-    "stats": {
-      "views": 2634,
-      "likes": 23,
-      "reposts": 1
-    },
     "reach": 0.411765
-  },
-  {
-    "id": "2097693634569396706",
-    "source": "x",
-    "url": "https://x.com/Aqsahere_/status/2097693634569396706",
-    "title": "A realistic candid travel photo of a young East Asian woman standing on an old stone…",
-    "text": "GPT image 2.5\n\nPrompt:\nA realistic candid travel photo of a young East Asian woman standing on an old stone walkway beside a historic city wall at night. Behind her is a beautiful traditional Chinese-style building glowing with warm golden lights and deep red accents, with layered roofs, curved upturned eaves, detailed wooden architecture, and softly illuminated windows. Tall red lanterns hang from an ornate black lamp post nearby, adding a warm glow to the scene.\nShe has long, straight dark brown hair falling naturally over her shoulders and back, with a few loose strands around her face. She has soft youthful features and a gentle, genuine smile as she looks naturally toward the camera. She is wearing an oversized dark charcoal-gray leather jacket with a relaxed, slightly loose fit, paired with wide-leg light-gray jeans. A small black shoulder bag hangs at her side with a cute little white plush charm attached to it.\nShe is casually leaning against the black metal railing, resting one arm comfortably on it while her body is turned slightly toward the camera. The pose should feel spontaneous and relaxed, like a friend captured the moment while she was enjoying an evening walk. The old dark brick wall stretches behind her, with warm lights highlighting parts of the stonework, while the paved walkway continues into the distance with a few people and subtle city lights.\nThe sky is a deep gray-blue with soft clouds, contrasting naturally with the warm golden architecture and glowing red lanterns. Keep everything believable and lived-in, with realistic skin texture, natural facial proportions, individual hair strands, authentic leather and denim textures, soft evening shadows, subtle reflections from the lights, and realistic depth of field. Shot with a modern smartphone camera, slightly imperfect and natural rather than overly polished, with soft cinematic tones and a subtle dreamy atmosphere. Wide horizontal 16:9 composition.",
-    "prompt": "A realistic candid travel photo of a young East Asian woman standing on an old stone walkway beside a historic city wall at night. Behind her is a beautiful traditional Chinese-style building glowing with warm golden lights and deep red accents, with layered roofs, curved upturned eaves, detailed wooden architecture, and softly illuminated windows. Tall red lanterns hang from an ornate black lamp post nearby, adding a warm glow to the scene.\nShe has long, straight dark brown hair falling naturally over her shoulders and back, with a few loose strands around her face. She has soft youthful features and a gentle, genuine smile as she looks naturally toward the camera. She is wearing an oversized dark charcoal-gray leather jacket with a relaxed, slightly loose fit, paired with wide-leg light-gray jeans. A small black shoulder bag hangs at her side with a cute little white plush charm attached to it.\nShe is casually leaning against the black metal railing, resting one arm comfortably on it while her body is turned slightly toward the camera. The pose should feel spontaneous and relaxed, like a friend captured the moment while she was enjoying an evening walk. The old dark brick wall stretches behind her, with warm lights highlighting parts of the stonework, while the paved walkway continues into the distance with a few people and subtle city lights.\nThe sky is a deep gray-blue with soft clouds, contrasting naturally with the warm golden architecture and glowing red lanterns. Keep everything believable and lived-in, with realistic skin texture, natural facial proportions, individual hair strands, authentic leather and denim textures, soft evening shadows, subtle reflections from the lights, and realistic depth of field. Shot with a modern smartphone camera, slightly imperfect and natural rather than overly polished, with soft cinematic tones and a subtle dreamy atmosphere. Wide horizontal 16:9 composition.",
-    "prompt_in_thread": false,
-    "model": "GPT Image 2.5",
-    "category": "Photoreal & Portrait",
-    "date": "2026-09-09",
-    "author": {
-      "name": "Aqsa",
-      "handle": "Aqsahere_",
-      "url": "https://x.com/Aqsahere_",
-      "avatar": "https://pbs.twimg.com/profile_images/2058848213046579200/qU5kj8IY_200x200.jpg"
-    },
-    "image": {
-      "url": "https://pbs.twimg.com/media/HRyBPMdbUAA5cth.jpg?name=orig",
-      "width": 1086,
-      "height": 1448
-    },
-    "extra_images": [],
-    "stats": {
-      "views": 1846,
-      "likes": 47,
-      "reposts": 4
-    },
-    "reach": 0.352941
   },
   {
     "id": "2097652659788619894",
@@ -476,9 +446,39 @@
     },
     "extra_images": [],
     "stats": {
-      "views": 1706,
+      "views": 2277,
       "likes": 0,
       "reposts": 0
+    },
+    "reach": 0.352941
+  },
+  {
+    "id": "2097693634569396706",
+    "source": "x",
+    "url": "https://x.com/Aqsahere_/status/2097693634569396706",
+    "title": "A realistic candid travel photo of a young East Asian woman standing on an old stone…",
+    "text": "GPT image 2.5\n\nPrompt:\nA realistic candid travel photo of a young East Asian woman standing on an old stone walkway beside a historic city wall at night. Behind her is a beautiful traditional Chinese-style building glowing with warm golden lights and deep red accents, with layered roofs, curved upturned eaves, detailed wooden architecture, and softly illuminated windows. Tall red lanterns hang from an ornate black lamp post nearby, adding a warm glow to the scene.\nShe has long, straight dark brown hair falling naturally over her shoulders and back, with a few loose strands around her face. She has soft youthful features and a gentle, genuine smile as she looks naturally toward the camera. She is wearing an oversized dark charcoal-gray leather jacket with a relaxed, slightly loose fit, paired with wide-leg light-gray jeans. A small black shoulder bag hangs at her side with a cute little white plush charm attached to it.\nShe is casually leaning against the black metal railing, resting one arm comfortably on it while her body is turned slightly toward the camera. The pose should feel spontaneous and relaxed, like a friend captured the moment while she was enjoying an evening walk. The old dark brick wall stretches behind her, with warm lights highlighting parts of the stonework, while the paved walkway continues into the distance with a few people and subtle city lights.\nThe sky is a deep gray-blue with soft clouds, contrasting naturally with the warm golden architecture and glowing red lanterns. Keep everything believable and lived-in, with realistic skin texture, natural facial proportions, individual hair strands, authentic leather and denim textures, soft evening shadows, subtle reflections from the lights, and realistic depth of field. Shot with a modern smartphone camera, slightly imperfect and natural rather than overly polished, with soft cinematic tones and a subtle dreamy atmosphere. Wide horizontal 16:9 composition.",
+    "prompt": "A realistic candid travel photo of a young East Asian woman standing on an old stone walkway beside a historic city wall at night. Behind her is a beautiful traditional Chinese-style building glowing with warm golden lights and deep red accents, with layered roofs, curved upturned eaves, detailed wooden architecture, and softly illuminated windows. Tall red lanterns hang from an ornate black lamp post nearby, adding a warm glow to the scene.\nShe has long, straight dark brown hair falling naturally over her shoulders and back, with a few loose strands around her face. She has soft youthful features and a gentle, genuine smile as she looks naturally toward the camera. She is wearing an oversized dark charcoal-gray leather jacket with a relaxed, slightly loose fit, paired with wide-leg light-gray jeans. A small black shoulder bag hangs at her side with a cute little white plush charm attached to it.\nShe is casually leaning against the black metal railing, resting one arm comfortably on it while her body is turned slightly toward the camera. The pose should feel spontaneous and relaxed, like a friend captured the moment while she was enjoying an evening walk. The old dark brick wall stretches behind her, with warm lights highlighting parts of the stonework, while the paved walkway continues into the distance with a few people and subtle city lights.\nThe sky is a deep gray-blue with soft clouds, contrasting naturally with the warm golden architecture and glowing red lanterns. Keep everything believable and lived-in, with realistic skin texture, natural facial proportions, individual hair strands, authentic leather and denim textures, soft evening shadows, subtle reflections from the lights, and realistic depth of field. Shot with a modern smartphone camera, slightly imperfect and natural rather than overly polished, with soft cinematic tones and a subtle dreamy atmosphere. Wide horizontal 16:9 composition.",
+    "prompt_in_thread": false,
+    "model": "GPT Image 2.5",
+    "category": "Photoreal & Portrait",
+    "date": "2026-09-09",
+    "author": {
+      "name": "Aqsa",
+      "handle": "Aqsahere_",
+      "url": "https://x.com/Aqsahere_",
+      "avatar": "https://pbs.twimg.com/profile_images/2058848213046579200/qU5kj8IY_200x200.jpg"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/HRyBPMdbUAA5cth.jpg?name=orig",
+      "width": 1086,
+      "height": 1448
+    },
+    "extra_images": [],
+    "stats": {
+      "views": 2118,
+      "likes": 47,
+      "reposts": 4
     },
     "reach": 0.294118
   },
@@ -522,7 +522,7 @@
       }
     ],
     "stats": {
-      "views": 1649,
+      "views": 1942,
       "likes": 44,
       "reposts": 4
     },
@@ -552,41 +552,11 @@
     },
     "extra_images": [],
     "stats": {
-      "views": 1066,
-      "likes": 7,
+      "views": 1405,
+      "likes": 8,
       "reposts": 1
     },
     "reach": 0.176471
-  },
-  {
-    "id": "2097710852413497646",
-    "source": "x",
-    "url": "https://x.com/miratechtool/status/2097710852413497646",
-    "title": "Made with GPT Image 2.5",
-    "text": "Made with GPT Image 2.5\n\nPrompt : Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.",
-    "prompt": "Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.",
-    "prompt_in_thread": false,
-    "model": "GPT Image 2.5",
-    "category": "Editing & Restyle",
-    "date": "2026-09-09",
-    "author": {
-      "name": "Mira",
-      "handle": "miratechtool",
-      "url": "https://x.com/miratechtool",
-      "avatar": "https://pbs.twimg.com/profile_images/2055761979986378752/2ZdUlsem_200x200.jpg"
-    },
-    "image": {
-      "url": "https://pbs.twimg.com/media/HRyQ5SpXgAA9LW9.jpg?name=orig",
-      "width": 1122,
-      "height": 1402
-    },
-    "extra_images": [],
-    "stats": {
-      "views": 668,
-      "likes": 28,
-      "reposts": 2
-    },
-    "reach": 0.117647
   },
   {
     "id": "2097663816339427547",
@@ -618,9 +588,39 @@
       }
     ],
     "stats": {
-      "views": 663,
+      "views": 762,
       "likes": 4,
       "reposts": 1
+    },
+    "reach": 0.117647
+  },
+  {
+    "id": "2097710852413497646",
+    "source": "x",
+    "url": "https://x.com/miratechtool/status/2097710852413497646",
+    "title": "Made with GPT Image 2.5",
+    "text": "Made with GPT Image 2.5\n\nPrompt : Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.",
+    "prompt": "Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.",
+    "prompt_in_thread": false,
+    "model": "GPT Image 2.5",
+    "category": "Editing & Restyle",
+    "date": "2026-09-09",
+    "author": {
+      "name": "Mira",
+      "handle": "miratechtool",
+      "url": "https://x.com/miratechtool",
+      "avatar": "https://pbs.twimg.com/profile_images/2055761979986378752/2ZdUlsem_200x200.jpg"
+    },
+    "image": {
+      "url": "https://pbs.twimg.com/media/HRyQ5SpXgAA9LW9.jpg?name=orig",
+      "width": 1122,
+      "height": 1402
+    },
+    "extra_images": [],
+    "stats": {
+      "views": 757,
+      "likes": 27,
+      "reposts": 2
     },
     "reach": 0.058824
   }
