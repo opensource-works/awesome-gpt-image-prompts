@@ -20,8 +20,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1926364057004646400/z3oD9QyB_200x200.jpg"
     },
     "stats": {
-      "views": 92045,
-      "likes": 618,
+      "views": 92095,
+      "likes": 616,
       "reposts": 25
     },
     "reach": 1.0,
@@ -64,8 +64,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_200x200.jpg"
     },
     "stats": {
-      "views": 15203,
-      "likes": 229,
+      "views": 15383,
+      "likes": 227,
       "reposts": 32
     },
     "reach": 0.941176,
@@ -122,8 +122,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2095534540525903873/q3A8G-dZ_200x200.jpg"
     },
     "stats": {
-      "views": 13801,
-      "likes": 63,
+      "views": 14320,
+      "likes": 64,
       "reposts": 6
     },
     "reach": 0.882353,
@@ -158,7 +158,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2095534540525903873/q3A8G-dZ_200x200.jpg"
     },
     "stats": {
-      "views": 11425,
+      "views": 11837,
       "likes": 34,
       "reposts": 1
     },
@@ -194,9 +194,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_200x200.jpg"
     },
     "stats": {
-      "views": 10651,
-      "likes": 241,
-      "reposts": 42
+      "views": 10810,
+      "likes": 242,
+      "reposts": 43
     },
     "reach": 0.764706,
     "subreddit": null,
@@ -252,7 +252,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2055761979986378752/2ZdUlsem_200x200.jpg"
     },
     "stats": {
-      "views": 9445,
+      "views": 9587,
       "likes": 156,
       "reposts": 16
     },
@@ -303,8 +303,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2075270919745052672/pPb_2zgd_200x200.jpg"
     },
     "stats": {
-      "views": 7906,
-      "likes": 183,
+      "views": 8008,
+      "likes": 184,
       "reposts": 17
     },
     "reach": 0.647059,
@@ -341,50 +341,6 @@
     ]
   },
   {
-    "id": "2097716825668702388",
-    "source": "x",
-    "url": "https://x.com/KrishnaBio1/status/2097716825668702388",
-    "title": "GPT image 2.5 GIF prompt 👇",
-    "text": "GPT image 2.5  GIF prompt 👇\n\nTurn the two reference images into one breathtaking, ultra-realistic cinematic travel landscape with a seamless sunset animation loop.\n\nSCENE\nCombine the key elements from both images into one natural-looking destination. Include the grand Ottoman-style mosque with multiple minarets and domes, Istanbul-style waterfront and boats from the first image, together with the peaceful alpine lake, colorful European village, dramatic snow-capped mountains and beautiful hilltop stone castle from the second image.\n\nCreate a wide scenic waterfront view with historic architecture on one side and the castle and mountains on the other. Add colorful flowers, green trees, Mediterranean plants, a vintage lantern and an elegant terrace with a small café table in the foreground.\n\nSUNSET & LIGHTING\nBeautiful golden-hour sunset with pastel blue, pink, peach and orange clouds. Warm sunlight illuminates the mosque, castle, village, mountains and boats. The lake reflects the sunset, buildings and mountains with realistic gentle ripples and golden reflections.\n\nANIMATION\nCreate 16 consecutive frames of a smooth seamless loop. Animate only subtle environmental movement: slowly drifting clouds, gentle water ripples, boats moving slightly, birds flying in the distance, flowers and tree leaves softly moving in the breeze, and subtle candle/lantern flickering.\n\nKeep the camera completely fixed. Keep the mosque, castle, mountains, houses and all major objects perfectly consistent across every frame. Frame 16 must smoothly transition back into Frame 1.\n\nSTYLE\nUltra-realistic cinematic travel photography, luxury tourism advertisement, breathtaking golden-hour atmosphere, realistic architecture, detailed mountains, natural vegetation, beautiful water reflections, atmospheric depth, high dynamic range, rich but natural colors, professional photography, photorealistic 8K quality.\n\nCAMERA\nWide cinematic landscape view, 24mm lens, stable locked camera, natural perspective, realistic depth of field, consistent framing and lighting across all frames.\n\nANIMATION SETTINGS\n16 frames, approximately 2.2-second complete loop, smooth continuous GIF animation, no camera movement, no flickering.\n\nNEGATIVE PROMPT\ncartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warped mosque, crooked minarets, malformed castle, distorted mountains, duplicated boats, floating objects, unrealistic reflections, fake water, excessive fog, oversaturated colors, extreme HDR, blurry image, motion blur, camera shake, zoom, flickering, morphing buildings, changing architecture, disappearing objects, duplicated birds, unnatural clouds, image seams, visible collage, text, logo, watermark, border, black bars, artifacts.",
-    "prompt": "Turn the two reference images into one breathtaking, ultra-realistic cinematic travel landscape with a seamless sunset animation loop.\n\nSCENE\nCombine the key elements from both images into one natural-looking destination. Include the grand Ottoman-style mosque with multiple minarets and domes, Istanbul-style waterfront and boats from the first image, together with the peaceful alpine lake, colorful European village, dramatic snow-capped mountains and beautiful hilltop stone castle from the second image.\n\nCreate a wide scenic waterfront view with historic architecture on one side and the castle and mountains on the other. Add colorful flowers, green trees, Mediterranean plants, a vintage lantern and an elegant terrace with a small café table in the foreground.\n\nSUNSET & LIGHTING\nBeautiful golden-hour sunset with pastel blue, pink, peach and orange clouds. Warm sunlight illuminates the mosque, castle, village, mountains and boats. The lake reflects the sunset, buildings and mountains with realistic gentle ripples and golden reflections.\n\nANIMATION\nCreate 16 consecutive frames of a smooth seamless loop. Animate only subtle environmental movement: slowly drifting clouds, gentle water ripples, boats moving slightly, birds flying in the distance, flowers and tree leaves softly moving in the breeze, and subtle candle/lantern flickering.\n\nKeep the camera completely fixed. Keep the mosque, castle, mountains, houses and all major objects perfectly consistent across every frame. Frame 16 must smoothly transition back into Frame 1.\n\nSTYLE\nUltra-realistic cinematic travel photography, luxury tourism advertisement, breathtaking golden-hour atmosphere, realistic architecture, detailed mountains, natural vegetation, beautiful water reflections, atmospheric depth, high dynamic range, rich but natural colors, professional photography, photorealistic 8K quality.\n\nCAMERA\nWide cinematic landscape view, 24mm lens, stable locked camera, natural perspective, realistic depth of field, consistent framing and lighting across all frames.\n\nANIMATION SETTINGS\n16 frames, approximately 2.2-second complete loop, smooth continuous GIF animation, no camera movement, no flickering.\n\nNEGATIVE PROMPT\ncartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warped mosque, crooked minarets, malformed castle, distorted mountains, duplicated boats, floating objects, unrealistic reflections, fake water, excessive fog, oversaturated colors, extreme HDR, blurry image, motion blur, camera shake, zoom, flickering, morphing buildings, changing architecture, disappearing objects, duplicated birds, unnatural clouds, image seams, visible collage, text, logo, watermark, border, black bars, artifacts.",
-    "prompt_in_thread": false,
-    "prompt_source_urls": [
-      "https://x.com/KrishnaBio1/status/2097716825668702388"
-    ],
-    "model": "GPT Image 2.5",
-    "category": "Design & Poster",
-    "date": "2026-09-09",
-    "author": {
-      "name": "KrishnaG",
-      "handle": "KrishnaBio1",
-      "url": "https://x.com/KrishnaBio1",
-      "avatar": "https://pbs.twimg.com/profile_images/2063930813155254272/7e089ZNZ_200x200.jpg"
-    },
-    "stats": {
-      "views": 3814,
-      "likes": 45,
-      "reposts": 12
-    },
-    "reach": 0.588235,
-    "subreddit": null,
-    "image": {
-      "url": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyWSj2XAAABt0j.webp",
-      "width": 941,
-      "height": 1672,
-      "source_url": "https://pbs.twimg.com/media/HRyWSj2XAAABt0j.jpg?name=orig",
-      "thumb": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyWSj2XAAABt0j.thumb.webp"
-    },
-    "extra_images": [
-      {
-        "url": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyWSkBXEAAwjv8.webp",
-        "width": 1291,
-        "height": 1218,
-        "source_url": "https://pbs.twimg.com/media/HRyWSkBXEAAwjv8.jpg?name=orig",
-        "thumb": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyWSkBXEAAwjv8.thumb.webp"
-      }
-    ]
-  },
-  {
     "id": "2097890291860865291",
     "source": "x",
     "url": "https://x.com/Goodmanprotocol/status/2097890291860865291",
@@ -405,11 +361,11 @@
       "avatar": "https://pbs.twimg.com/profile_images/2047734579482763265/hchY38qQ_200x200.jpg"
     },
     "stats": {
-      "views": 3298,
-      "likes": 63,
-      "reposts": 12
+      "views": 5063,
+      "likes": 65,
+      "reposts": 13
     },
-    "reach": 0.529412,
+    "reach": 0.588235,
     "subreddit": null,
     "image": {
       "url": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR00CbhacAAFzKP.webp",
@@ -443,6 +399,50 @@
     ]
   },
   {
+    "id": "2097716825668702388",
+    "source": "x",
+    "url": "https://x.com/KrishnaBio1/status/2097716825668702388",
+    "title": "GPT image 2.5 GIF prompt 👇",
+    "text": "GPT image 2.5  GIF prompt 👇\n\nTurn the two reference images into one breathtaking, ultra-realistic cinematic travel landscape with a seamless sunset animation loop.\n\nSCENE\nCombine the key elements from both images into one natural-looking destination. Include the grand Ottoman-style mosque with multiple minarets and domes, Istanbul-style waterfront and boats from the first image, together with the peaceful alpine lake, colorful European village, dramatic snow-capped mountains and beautiful hilltop stone castle from the second image.\n\nCreate a wide scenic waterfront view with historic architecture on one side and the castle and mountains on the other. Add colorful flowers, green trees, Mediterranean plants, a vintage lantern and an elegant terrace with a small café table in the foreground.\n\nSUNSET & LIGHTING\nBeautiful golden-hour sunset with pastel blue, pink, peach and orange clouds. Warm sunlight illuminates the mosque, castle, village, mountains and boats. The lake reflects the sunset, buildings and mountains with realistic gentle ripples and golden reflections.\n\nANIMATION\nCreate 16 consecutive frames of a smooth seamless loop. Animate only subtle environmental movement: slowly drifting clouds, gentle water ripples, boats moving slightly, birds flying in the distance, flowers and tree leaves softly moving in the breeze, and subtle candle/lantern flickering.\n\nKeep the camera completely fixed. Keep the mosque, castle, mountains, houses and all major objects perfectly consistent across every frame. Frame 16 must smoothly transition back into Frame 1.\n\nSTYLE\nUltra-realistic cinematic travel photography, luxury tourism advertisement, breathtaking golden-hour atmosphere, realistic architecture, detailed mountains, natural vegetation, beautiful water reflections, atmospheric depth, high dynamic range, rich but natural colors, professional photography, photorealistic 8K quality.\n\nCAMERA\nWide cinematic landscape view, 24mm lens, stable locked camera, natural perspective, realistic depth of field, consistent framing and lighting across all frames.\n\nANIMATION SETTINGS\n16 frames, approximately 2.2-second complete loop, smooth continuous GIF animation, no camera movement, no flickering.\n\nNEGATIVE PROMPT\ncartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warped mosque, crooked minarets, malformed castle, distorted mountains, duplicated boats, floating objects, unrealistic reflections, fake water, excessive fog, oversaturated colors, extreme HDR, blurry image, motion blur, camera shake, zoom, flickering, morphing buildings, changing architecture, disappearing objects, duplicated birds, unnatural clouds, image seams, visible collage, text, logo, watermark, border, black bars, artifacts.",
+    "prompt": "Turn the two reference images into one breathtaking, ultra-realistic cinematic travel landscape with a seamless sunset animation loop.\n\nSCENE\nCombine the key elements from both images into one natural-looking destination. Include the grand Ottoman-style mosque with multiple minarets and domes, Istanbul-style waterfront and boats from the first image, together with the peaceful alpine lake, colorful European village, dramatic snow-capped mountains and beautiful hilltop stone castle from the second image.\n\nCreate a wide scenic waterfront view with historic architecture on one side and the castle and mountains on the other. Add colorful flowers, green trees, Mediterranean plants, a vintage lantern and an elegant terrace with a small café table in the foreground.\n\nSUNSET & LIGHTING\nBeautiful golden-hour sunset with pastel blue, pink, peach and orange clouds. Warm sunlight illuminates the mosque, castle, village, mountains and boats. The lake reflects the sunset, buildings and mountains with realistic gentle ripples and golden reflections.\n\nANIMATION\nCreate 16 consecutive frames of a smooth seamless loop. Animate only subtle environmental movement: slowly drifting clouds, gentle water ripples, boats moving slightly, birds flying in the distance, flowers and tree leaves softly moving in the breeze, and subtle candle/lantern flickering.\n\nKeep the camera completely fixed. Keep the mosque, castle, mountains, houses and all major objects perfectly consistent across every frame. Frame 16 must smoothly transition back into Frame 1.\n\nSTYLE\nUltra-realistic cinematic travel photography, luxury tourism advertisement, breathtaking golden-hour atmosphere, realistic architecture, detailed mountains, natural vegetation, beautiful water reflections, atmospheric depth, high dynamic range, rich but natural colors, professional photography, photorealistic 8K quality.\n\nCAMERA\nWide cinematic landscape view, 24mm lens, stable locked camera, natural perspective, realistic depth of field, consistent framing and lighting across all frames.\n\nANIMATION SETTINGS\n16 frames, approximately 2.2-second complete loop, smooth continuous GIF animation, no camera movement, no flickering.\n\nNEGATIVE PROMPT\ncartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warped mosque, crooked minarets, malformed castle, distorted mountains, duplicated boats, floating objects, unrealistic reflections, fake water, excessive fog, oversaturated colors, extreme HDR, blurry image, motion blur, camera shake, zoom, flickering, morphing buildings, changing architecture, disappearing objects, duplicated birds, unnatural clouds, image seams, visible collage, text, logo, watermark, border, black bars, artifacts.",
+    "prompt_in_thread": false,
+    "prompt_source_urls": [
+      "https://x.com/KrishnaBio1/status/2097716825668702388"
+    ],
+    "model": "GPT Image 2.5",
+    "category": "Design & Poster",
+    "date": "2026-09-09",
+    "author": {
+      "name": "KrishnaG",
+      "handle": "KrishnaBio1",
+      "url": "https://x.com/KrishnaBio1",
+      "avatar": "https://pbs.twimg.com/profile_images/2063930813155254272/7e089ZNZ_200x200.jpg"
+    },
+    "stats": {
+      "views": 3885,
+      "likes": 45,
+      "reposts": 12
+    },
+    "reach": 0.529412,
+    "subreddit": null,
+    "image": {
+      "url": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyWSj2XAAABt0j.webp",
+      "width": 941,
+      "height": 1672,
+      "source_url": "https://pbs.twimg.com/media/HRyWSj2XAAABt0j.jpg?name=orig",
+      "thumb": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyWSj2XAAABt0j.thumb.webp"
+    },
+    "extra_images": [
+      {
+        "url": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyWSkBXEAAwjv8.webp",
+        "width": 1291,
+        "height": 1218,
+        "source_url": "https://pbs.twimg.com/media/HRyWSkBXEAAwjv8.jpg?name=orig",
+        "thumb": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyWSkBXEAAwjv8.thumb.webp"
+      }
+    ]
+  },
+  {
     "id": "2097448516322988041",
     "source": "x",
     "url": "https://x.com/AI__TSUBAKI/status/2097448516322988041",
@@ -463,9 +463,9 @@
       "avatar": "https://pbs.twimg.com/profile_images/2099167075503874048/ZlBreeHm_200x200.jpg"
     },
     "stats": {
-      "views": 3000,
-      "likes": 24,
-      "reposts": 1
+      "views": 3137,
+      "likes": 25,
+      "reposts": 2
     },
     "reach": 0.470588,
     "subreddit": null,
@@ -499,7 +499,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1892966556826578944/nJ94ij0a_200x200.jpg"
     },
     "stats": {
-      "views": 2861,
+      "views": 2998,
       "likes": 70,
       "reposts": 5
     },
@@ -543,7 +543,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/1761198970892914689/2sVrQaS7_200x200.jpg"
     },
     "stats": {
-      "views": 2277,
+      "views": 2278,
       "likes": 0,
       "reposts": 0
     },
@@ -579,7 +579,7 @@
       "avatar": "https://pbs.twimg.com/profile_images/2058848213046579200/qU5kj8IY_200x200.jpg"
     },
     "stats": {
-      "views": 2118,
+      "views": 2207,
       "likes": 47,
       "reposts": 4
     },
@@ -615,8 +615,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/2014919869259735040/MbBiQ58q_200x200.jpg"
     },
     "stats": {
-      "views": 1942,
-      "likes": 44,
+      "views": 2008,
+      "likes": 45,
       "reposts": 4
     },
     "reach": 0.235294,
@@ -673,8 +673,8 @@
       "avatar": "https://pbs.twimg.com/profile_images/1933182609758052352/k_CZpuNi_200x200.jpg"
     },
     "stats": {
-      "views": 1405,
-      "likes": 8,
+      "views": 1521,
+      "likes": 9,
       "reposts": 1
     },
     "reach": 0.176471,
@@ -685,6 +685,42 @@
       "height": 878,
       "source_url": "https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg?name=orig",
       "thumb": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyqKm2bsAAbR7g.thumb.webp"
+    },
+    "extra_images": []
+  },
+  {
+    "id": "2097710852413497646",
+    "source": "x",
+    "url": "https://x.com/miratechtool/status/2097710852413497646",
+    "title": "Made with GPT Image 2.5",
+    "text": "Made with GPT Image 2.5\n\nPrompt : Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.",
+    "prompt": "Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.",
+    "prompt_in_thread": false,
+    "prompt_source_urls": [
+      "https://x.com/miratechtool/status/2097710852413497646"
+    ],
+    "model": "GPT Image 2.5",
+    "category": "Editing & Restyle",
+    "date": "2026-09-09",
+    "author": {
+      "name": "Mira",
+      "handle": "miratechtool",
+      "url": "https://x.com/miratechtool",
+      "avatar": "https://pbs.twimg.com/profile_images/2055761979986378752/2ZdUlsem_200x200.jpg"
+    },
+    "stats": {
+      "views": 795,
+      "likes": 27,
+      "reposts": 2
+    },
+    "reach": 0.117647,
+    "subreddit": null,
+    "image": {
+      "url": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyQ5SpXgAA9LW9.webp",
+      "width": 1122,
+      "height": 1402,
+      "source_url": "https://pbs.twimg.com/media/HRyQ5SpXgAA9LW9.jpg?name=orig",
+      "thumb": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyQ5SpXgAA9LW9.thumb.webp"
     },
     "extra_images": []
   },
@@ -709,11 +745,11 @@
       "avatar": "https://pbs.twimg.com/profile_images/1977901941289365504/ga9WjN0v_200x200.jpg"
     },
     "stats": {
-      "views": 762,
+      "views": 783,
       "likes": 4,
       "reposts": 1
     },
-    "reach": 0.117647,
+    "reach": 0.058824,
     "subreddit": null,
     "image": {
       "url": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxjwN-awAIL8Pn.webp",
@@ -731,41 +767,5 @@
         "thumb": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxjvncaQAAIuVQ.thumb.webp"
       }
     ]
-  },
-  {
-    "id": "2097710852413497646",
-    "source": "x",
-    "url": "https://x.com/miratechtool/status/2097710852413497646",
-    "title": "Made with GPT Image 2.5",
-    "text": "Made with GPT Image 2.5\n\nPrompt : Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.",
-    "prompt": "Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.",
-    "prompt_in_thread": false,
-    "prompt_source_urls": [
-      "https://x.com/miratechtool/status/2097710852413497646"
-    ],
-    "model": "GPT Image 2.5",
-    "category": "Editing & Restyle",
-    "date": "2026-09-09",
-    "author": {
-      "name": "Mira",
-      "handle": "miratechtool",
-      "url": "https://x.com/miratechtool",
-      "avatar": "https://pbs.twimg.com/profile_images/2055761979986378752/2ZdUlsem_200x200.jpg"
-    },
-    "stats": {
-      "views": 757,
-      "likes": 27,
-      "reposts": 2
-    },
-    "reach": 0.058824,
-    "subreddit": null,
-    "image": {
-      "url": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyQ5SpXgAA9LW9.webp",
-      "width": 1122,
-      "height": 1402,
-      "source_url": "https://pbs.twimg.com/media/HRyQ5SpXgAA9LW9.jpg?name=orig",
-      "thumb": "https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyQ5SpXgAA9LW9.thumb.webp"
-    },
-    "extra_images": []
   }
 ]
