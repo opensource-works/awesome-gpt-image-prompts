@@ -26,18 +26,18 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 | Posts with the full prompt | **17** |
 | Where they came from | 17 from X |
 | Checkpoints covered | **GPT Image 2.5** (15), **GPT Image 2.5 Flare** (1), **GPT Image 2.5 Sunburst** (1) |
-| Last refreshed | 2026-10-05 |
+| Last refreshed | 2026-10-12 |
 
 ## Most engaged
 
 <table><tr>
-<td width="33%" valign="top"><a href="https://x.com/chetaslua/status/2095556181012128005"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRTozFXbwAAMDqF.thumb.webp" width="100%" alt=""></a><br><sub><b>🚨 GPT-Image-2.5 Output</b><br><a href="https://x.com/chetaslua">Chetaslua</a> · 92.1K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/chetaslua/status/2095556181012128005"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRTozFXbwAAMDqF.thumb.webp" width="100%" alt=""></a><br><sub><b>🚨 GPT-Image-2.5 Output</b><br><a href="https://x.com/chetaslua">Chetaslua</a> · 92.2K views</sub></td>
 <td width="33%" valign="top"><a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR1utPuasAABAU8.thumb.webp" width="100%" alt=""></a><br><sub><b>Create an authentic 1980s retro-vintage portrait in a 4:5…</b><br><a href="https://x.com/Goodmanprotocol">Saul Goodman</a> · 15.5K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698712978087966"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF3NOaQAAvoVo.thumb.webp" width="100%" alt=""></a><br><sub><b>1/ women Character sheet</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 14.6K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698712978087966"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF3NOaQAAvoVo.thumb.webp" width="100%" alt=""></a><br><sub><b>1/ women Character sheet</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 14.8K views</sub></td>
 </tr><tr>
-<td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="100%" alt=""></a><br><sub><b>2/ the woman location image</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 12.1K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxWoHva0AADhqK.thumb.webp" width="100%" alt=""></a><br><sub><b>GPT image 2.5 on ChatGPT</b><br><a href="https://x.com/Naiknelofar788">simeon-sanai</a> · 10.9K views</sub></td>
-<td width="33%" valign="top"><a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRySIFtWIAA0lcK.thumb.webp" width="100%" alt=""></a><br><sub><b>Made with GPT Image 2.5</b><br><a href="https://x.com/miratechtool">Mira</a> · 9.6K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="100%" alt=""></a><br><sub><b>2/ the woman location image</b><br><a href="https://x.com/abxxai">Abdul Shakoor</a> · 12.2K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxWoHva0AADhqK.thumb.webp" width="100%" alt=""></a><br><sub><b>GPT image 2.5 on ChatGPT</b><br><a href="https://x.com/Naiknelofar788">simeon-sanai</a> · 11K views</sub></td>
+<td width="33%" valign="top"><a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRySIFtWIAA0lcK.thumb.webp" width="100%" alt=""></a><br><sub><b>Made with GPT Image 2.5</b><br><a href="https://x.com/miratechtool">Mira</a> · 9.7K views</sub></td>
 </tr></table>
 
 > Ordering is each post's standing among the posts from its own platform. An X view and a Reddit upvote are not the same unit and this repo does not pretend to convert between them.
@@ -58,7 +58,7 @@ Copy any prompt from this repo, paste it into [seadanse.com](https://seadanse.co
 
 <a href="https://x.com/abxxai/status/2097698712978087966"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF3NOaQAAvoVo.thumb.webp" width="460" alt="1/ women Character sheet"></a>
 
-**Image credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698712978087966) · X · GPT Image 2.5 · 2026-09-09 · 14.6K views
+**Image credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698712978087966) · X · GPT Image 2.5 · 2026-09-09 · 14.8K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -74,7 +74,7 @@ Multi-panel studio photographs of the same real woman across four panels: front-
 
 <a href="https://x.com/miratechtool/status/2097712223044907454"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRySIFtWIAA0lcK.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
-**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097712223044907454) · X · GPT Image 2.5 · 2026-09-09 · 9.6K views
+**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097712223044907454) · X · GPT Image 2.5 · 2026-09-09 · 9.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -125,7 +125,7 @@ More Prompt  ➡️ http://genvizu.com.
 
 <a href="https://x.com/Naiknelofar788/status/2097996229582147939"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HR2UcbRbIAAGggr.thumb.webp" width="460" alt="Create a unique 3D miniature [COUNTRY] where the entire national border is formed from its…"></a>
 
-**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 2K views
+**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097996229582147939) · X · GPT Image 2.5 · 2026-09-10 · 2.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -144,7 +144,7 @@ Create a unique 3D miniature [COUNTRY] where the entire national border is forme
 
 <a href="https://x.com/chetaslua/status/2095556181012128005"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRTozFXbwAAMDqF.thumb.webp" width="460" alt="🚨 GPT-Image-2.5 Output"></a>
 
-**Image credit / source:** [Chetaslua](https://x.com/chetaslua) · [Original post](https://x.com/chetaslua/status/2095556181012128005) · X · GPT Image 2.5 · 2026-09-03 · 92.1K views
+**Image credit / source:** [Chetaslua](https://x.com/chetaslua) · [Original post](https://x.com/chetaslua/status/2095556181012128005) · X · GPT Image 2.5 · 2026-09-03 · 92.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -182,7 +182,7 @@ Keep the lighting cinematic yet believable, with soft shadows, realistic highlig
 
 <a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="460" alt="2/ the woman location image"></a>
 
-**Image credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698730564796683) · X · GPT Image 2.5 · 2026-09-09 · 12.1K views
+**Image credit / source:** [Abdul Shakoor](https://x.com/abxxai) · [Original post](https://x.com/abxxai/status/2097698730564796683) · X · GPT Image 2.5 · 2026-09-09 · 12.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -198,7 +198,7 @@ Two women framed by a sun-bleached stone archway — one in the near foreground 
 
 <a href="https://x.com/Aqsahere_/status/2097693634569396706"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyBPMdbUAA5cth.thumb.webp" width="460" alt="A realistic candid travel photo of a young East Asian woman standing on an old stone…"></a>
 
-**Image credit / source:** [Aqsa](https://x.com/Aqsahere_) · [Original post](https://x.com/Aqsahere_/status/2097693634569396706) · X · GPT Image 2.5 · 2026-09-09 · 2.2K views
+**Image credit / source:** [Aqsa](https://x.com/Aqsahere_) · [Original post](https://x.com/Aqsahere_/status/2097693634569396706) · X · GPT Image 2.5 · 2026-09-09 · 2.3K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -280,7 +280,7 @@ The final image should feel like a world-class handcrafted travel campaign-insta
 
 <a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxjwN-awAIL8Pn.thumb.webp" width="460" alt="电商穿搭 Lookbook👀 感觉正好能测它的人物、商品细节、排版和文字生成四项能力。挺能打了，你们觉得呢？"></a>
 
-**Image credit / source:** [诗泳研AI](https://x.com/LiEvanna85716) · [Original post](https://x.com/LiEvanna85716/status/2097663816339427547) · X · GPT Image 2.5 Sunburst · 2026-09-09 · 801 views
+**Image credit / source:** [诗泳研AI](https://x.com/LiEvanna85716) · [Original post](https://x.com/LiEvanna85716/status/2097663816339427547) · X · GPT Image 2.5 Sunburst · 2026-09-09 · 826 views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -312,7 +312,7 @@ Vertical 3:4 composition, high-resolution commercial fashion photography.
 
 <a href="https://x.com/Diplomeme/status/2097641872068063436"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxSKJMbYAAuiRA.thumb.webp" width="460" alt="GPT image 2.5 Flare on @MageSpace_"></a>
 
-**Image credit / source:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) · [Original post](https://x.com/Diplomeme/status/2097641872068063436) · X · GPT Image 2.5 Flare · 2026-09-09 · 8K views
+**Image credit / source:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) · [Original post](https://x.com/Diplomeme/status/2097641872068063436) · X · GPT Image 2.5 Flare · 2026-09-09 · 8.1K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -413,7 +413,7 @@ cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warp
 
 <a href="https://x.com/jzaib4269/status/2092804796512346269"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HQsi2jBbUAAQ_4d.thumb.webp" width="460" alt="Created with GPT image 2.5 on ChatGPT"></a>
 
-**Image credit / source:** [Jahan Zaib](https://x.com/jzaib4269) · [Original post](https://x.com/jzaib4269/status/2092804796512346269) · X · GPT Image 2.5 · 2026-08-27 · 3.1K views
+**Image credit / source:** [Jahan Zaib](https://x.com/jzaib4269) · [Original post](https://x.com/jzaib4269/status/2092804796512346269) · X · GPT Image 2.5 · 2026-08-27 · 3.2K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -452,7 +452,7 @@ Overall feeling: beautiful enough to stop the scroll, realistic enough to feel l
 
 <a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxWoHva0AADhqK.thumb.webp" width="460" alt="GPT image 2.5 on ChatGPT"></a>
 
-**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097646788258021837) · X · GPT Image 2.5 · 2026-09-09 · 10.9K views
+**Image credit / source:** [simeon-sanai](https://x.com/Naiknelofar788) · [Original post](https://x.com/Naiknelofar788/status/2097646788258021837) · X · GPT Image 2.5 · 2026-09-09 · 11K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -477,7 +477,7 @@ Use soft natural lighting, gentle shadows, pastel yet realistic colors, miniatur
 
 <a href="https://x.com/TechieBySA/status/2097738632941461886"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyqKm2bsAAbR7g.thumb.webp" width="460" alt="GPT Image 2.5 prompt"></a>
 
-**Image credit / source:** [TechieSA](https://x.com/TechieBySA) · [Original post](https://x.com/TechieBySA/status/2097738632941461886) · X · GPT Image 2.5 · 2026-09-09 · 1.6K views
+**Image credit / source:** [TechieSA](https://x.com/TechieBySA) · [Original post](https://x.com/TechieBySA/status/2097738632941461886) · X · GPT Image 2.5 · 2026-09-09 · 1.7K views
 
 <details><summary><b>Prompt</b></summary>
 
@@ -518,7 +518,7 @@ Ultra-realistic iPhone creative portrait, identity preserved exactly from refere
 
 <a href="https://x.com/miratechtool/status/2097710852413497646"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyQ5SpXgAA9LW9.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
-**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097710852413497646) · X · GPT Image 2.5 · 2026-09-09 · 814 views
+**Image credit / source:** [Mira](https://x.com/miratechtool) · [Original post](https://x.com/miratechtool/status/2097710852413497646) · X · GPT Image 2.5 · 2026-09-09 · 825 views
 
 <details><summary><b>Prompt</b></summary>
 
