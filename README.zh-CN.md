@@ -26,7 +26,7 @@
 | 含完整提示词 | **17** |
 | 来源分布 | 17 from X |
 | 覆盖检查点 | **GPT Image 2.5**（15）, **GPT Image 2.5 Flare**（1）, **GPT Image 2.5 Sunburst**（1） |
-| 最近更新 | 2026-11-09 |
+| 最近更新 | 2026-11-16 |
 
 ## 目录
 
@@ -46,7 +46,7 @@
 
 <a href="https://x.com/abxxai/status/2097698712978087966"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF3NOaQAAvoVo.thumb.webp" width="460" alt="1/ women Character sheet"></a>
 
-**图片署名 / 来源：** [Abdul Shakoor](https://x.com/abxxai) · [X 原帖](https://x.com/abxxai/status/2097698712978087966) · X · GPT Image 2.5 · 2026-09-09 · 15.5K 浏览
+**图片署名 / 来源：** [Abdul Shakoor](https://x.com/abxxai) · [X 原帖](https://x.com/abxxai/status/2097698712978087966) · X · GPT Image 2.5 · 2026-09-09 · 15.7K 浏览
 
 <details><summary><b>提示词</b></summary>
 
@@ -172,7 +172,7 @@ Keep the lighting cinematic yet believable, with soft shadows, realistic highlig
 
 <a href="https://x.com/abxxai/status/2097698730564796683"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyF4LMaIAAbYPT.thumb.webp" width="460" alt="2/ the woman location image"></a>
 
-**图片署名 / 来源：** [Abdul Shakoor](https://x.com/abxxai) · [X 原帖](https://x.com/abxxai/status/2097698730564796683) · X · GPT Image 2.5 · 2026-09-09 · 12.9K 浏览
+**图片署名 / 来源：** [Abdul Shakoor](https://x.com/abxxai) · [X 原帖](https://x.com/abxxai/status/2097698730564796683) · X · GPT Image 2.5 · 2026-09-09 · 13.1K 浏览
 
 <details><summary><b>提示词</b></summary>
 
@@ -274,7 +274,7 @@ The final image should feel like a world-class handcrafted travel campaign-insta
 
 <a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxjwN-awAIL8Pn.thumb.webp" width="460" alt="电商穿搭 Lookbook👀 感觉正好能测它的人物、商品细节、排版和文字生成四项能力。挺能打了，你们觉得呢？"></a>
 
-**图片署名 / 来源：** [诗泳研AI](https://x.com/LiEvanna85716) · [X 原帖](https://x.com/LiEvanna85716/status/2097663816339427547) · X · GPT Image 2.5 Sunburst · 2026-09-09 · 902 浏览
+**图片署名 / 来源：** [诗泳研AI](https://x.com/LiEvanna85716) · [X 原帖](https://x.com/LiEvanna85716/status/2097663816339427547) · X · GPT Image 2.5 Sunburst · 2026-09-09 · 908 浏览
 
 <details><summary><b>提示词</b></summary>
 
@@ -409,7 +409,7 @@ cartoon, anime, painting, CGI, 3D render, low quality, distorted buildings, warp
 
 <a href="https://x.com/jzaib4269/status/2092804796512346269"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HQsi2jBbUAAQ_4d.thumb.webp" width="460" alt="Created with GPT image 2.5 on ChatGPT"></a>
 
-**图片署名 / 来源：** [Jahan Zaib](https://x.com/jzaib4269) · [X 原帖](https://x.com/jzaib4269/status/2092804796512346269) · X · GPT Image 2.5 · 2026-08-27 · 3.4K 浏览
+**图片署名 / 来源：** [Jahan Zaib](https://x.com/jzaib4269) · [X 原帖](https://x.com/jzaib4269/status/2092804796512346269) · X · GPT Image 2.5 · 2026-08-27 · 3.5K 浏览
 
 <details><summary><b>提示词</b></summary>
 
@@ -450,7 +450,7 @@ Overall feeling: beautiful enough to stop the scroll, realistic enough to feel l
 
 <a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRxWoHva0AADhqK.thumb.webp" width="460" alt="GPT image 2.5 on ChatGPT"></a>
 
-**图片署名 / 来源：** [simeon-sanai](https://x.com/Naiknelofar788) · [X 原帖](https://x.com/Naiknelofar788/status/2097646788258021837) · X · GPT Image 2.5 · 2026-09-09 · 11.1K 浏览
+**图片署名 / 来源：** [simeon-sanai](https://x.com/Naiknelofar788) · [X 原帖](https://x.com/Naiknelofar788/status/2097646788258021837) · X · GPT Image 2.5 · 2026-09-09 · 12.6K 浏览
 
 <details><summary><b>提示词</b></summary>
 
@@ -475,7 +475,7 @@ Use soft natural lighting, gentle shadows, pastel yet realistic colors, miniatur
 
 <a href="https://x.com/TechieBySA/status/2097738632941461886"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyqKm2bsAAbR7g.thumb.webp" width="460" alt="GPT Image 2.5 prompt"></a>
 
-**图片署名 / 来源：** [TechieSA](https://x.com/TechieBySA) · [X 原帖](https://x.com/TechieBySA/status/2097738632941461886) · X · GPT Image 2.5 · 2026-09-09 · 1.7K 浏览
+**图片署名 / 来源：** [TechieSA](https://x.com/TechieBySA) · [X 原帖](https://x.com/TechieBySA/status/2097738632941461886) · X · GPT Image 2.5 · 2026-09-09 · 1.8K 浏览
 
 <details><summary><b>提示词</b></summary>
 
@@ -518,7 +518,7 @@ Ultra-realistic iPhone creative portrait, identity preserved exactly from refere
 
 <a href="https://x.com/miratechtool/status/2097710852413497646"><img src="https://pub-46ac5cb6dc354f0bbf6b1133ce8765e0.r2.dev/HRyQ5SpXgAA9LW9.thumb.webp" width="460" alt="Made with GPT Image 2.5"></a>
 
-**图片署名 / 来源：** [Mira](https://x.com/miratechtool) · [X 原帖](https://x.com/miratechtool/status/2097710852413497646) · X · GPT Image 2.5 · 2026-09-09 · 841 浏览
+**图片署名 / 来源：** [Mira](https://x.com/miratechtool) · [X 原帖](https://x.com/miratechtool/status/2097710852413497646) · X · GPT Image 2.5 · 2026-09-09 · 842 浏览
 
 <details><summary><b>提示词</b></summary>
 
